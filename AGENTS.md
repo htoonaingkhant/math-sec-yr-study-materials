@@ -48,3 +48,4 @@ AGENTS.md records selected questions and completion status. After explaining eac
 
 - Paper 2103, Unit 1 — No. 5, 6, 7, 10, and 11: completed after learner confirmation.
 - Additional foundation — Trigonometric ratios: studied SOH-CAH-TOA, the special-angle values for `0°, 30°, 45°, 60°, 90°`, and using `F cos θ` for horizontal components and `F sin θ` for vertical components. Detailed Burmese explanations are saved in [`study-notes/trigonometric-ratios.md`](study-notes/trigonometric-ratios.md). Retain for future review.
+- English learning plan based on the `eng.pdf` exam format is saved in [`study-notes/english-learning-plan.md`](study-notes/english-learning-plan.md). Keep future English notes under `study-notes/` with the `english-` filename prefix; keep temporary renders under `tmp/pdfs/eng/` and confirmed reference pages under `study-pages/eng/<unit>/`.
