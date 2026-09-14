@@ -1,5 +1,9 @@
 # Repository Guidelines
 
+## Mandatory Startup Rule
+
+Before responding to any study request, read this `AGENTS.md` from the repository root. If it was not automatically loaded, read it manually before solving the question. Treat the learner context, explanation protocol, page references, and study progress below as required context for every session.
+
 ## Project Structure & Module Organization
 
 This workspace is a flat collection of standalone scanned documents. The root contains nine numbered PDFs (`2101.pdf` through `2111.pdf`, with gaps) and one timestamped JPEG (`2026-09-14 18.38.59.jpg`). Keep original scans at the root unless a future organization scheme is documented. Store temporary renders under `tmp/pdfs/<paper>/`; store confirmed reference pages under `study-pages/<paper>/<unit>/` so they can be reused from another checkout.
