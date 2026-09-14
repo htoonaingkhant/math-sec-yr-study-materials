@@ -46,4 +46,5 @@ The learner has been away from school for about eight years and is now studying 
 
 AGENTS.md records selected questions and completion status. After explaining each question, update AGENTS.md immediately only when the learner explicitly confirms understanding. Confirmed reference pages are tracked in `study-pages/2103/unit-1/`: `page-02.png` (No. 5), `page-03.png` (No. 6-7), `page-05.png` (No. 10), and `page-06.png` (No. 11). Other renders remain local under `tmp/`.
 
-- Paper 2103, Unit 1 — No. 5, 6, and 7: completed after learner confirmation. No. 10 and 11: selected; not yet completed.
+- Paper 2103, Unit 1 — No. 5, 6, 7, 10, and 11: completed after learner confirmation.
+- Additional foundation — Trigonometric ratios: studied SOH-CAH-TOA, the special-angle values for `0°, 30°, 45°, 60°, 90°`, and using `F cos θ` for horizontal components and `F sin θ` for vertical components. Detailed Burmese explanations are saved in [`study-notes/trigonometric-ratios.md`](study-notes/trigonometric-ratios.md). Retain for future review.
