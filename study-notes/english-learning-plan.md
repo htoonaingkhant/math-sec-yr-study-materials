@@ -3,8 +3,16 @@
 ## Status
 
 - Plan created: 2026-09-15
-- Learning status: Not started
+- Learning status: In progress
 - A topic is marked complete only after the learner confirms understanding.
+
+## Progress
+
+- Phase 2 — Reading Section I(a), reference words: completed after learner confirmation.
+- Phase 2 — Reading Section I(b), matching: completed after learner confirmation.
+- Phase 2 — Reading Section I(c), True / False: completed after learner confirmation.
+- Phase 2 — Reading Section I(d), answering passage questions: completed after learner confirmation. Reading Section I is complete.
+- Phase 3 — Word Forms foundation lesson: completed after learner confirmation; Section III practice is ongoing.
 
 ## Source and exam blueprint
 
