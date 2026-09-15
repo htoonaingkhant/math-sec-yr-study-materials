@@ -13,6 +13,7 @@
 - Phase 2 — Reading Section I(c), True / False: completed after learner confirmation.
 - Phase 2 — Reading Section I(d), answering passage questions: completed after learner confirmation. Reading Section I is complete.
 - Phase 3 — Word Forms foundation lesson: completed after learner confirmation; Section III practice is ongoing.
+- Phase 3 — Complete Word Forms section-opening review under the new teaching protocol: completed after learner confirmation; source exercises may now resume question by question.
 
 ## Source and exam blueprint
 
@@ -109,7 +110,23 @@ Use a 60–90 minute session when possible:
 
 ## Teaching and checking method
 
-Each lesson will follow this order:
+### Mandatory section-opening lesson
+
+Before practising any new exam section, teach the section itself thoroughly. Do not begin with isolated questions. The section-opening lesson must cover:
+
+1. the section's purpose and marks
+2. the meaning of its instructions and technical terms
+3. the foundations the learner needs
+4. every main question pattern expected in that section
+5. clues for recognising which rule or answer form is required
+6. a step-by-step answering method
+7. fully worked model examples
+8. common mistakes and a final checking method
+9. an understanding check before exercises begin
+
+### Question lesson sequence
+
+After the section-opening lesson is understood, each question will follow this order:
 
 1. define the words, symbols, and instructions
 2. explain the rule from the beginning
@@ -129,4 +146,4 @@ Keep the English materials in these locations so the workspace does not become s
 - `tmp/pdfs/eng/` — temporary rendered pages only; do not treat these as confirmed references
 - `study-pages/eng/<unit>/` — confirmed reference pages only, if needed later
 
-The next lesson should begin with the foundations needed for Reading Section I. No progress entry is complete until the learner explicitly confirms understanding.
+The next lesson should give a complete section-opening review for Section III Word Forms before continuing its practice questions. No progress entry is complete until the learner explicitly confirms understanding.
