@@ -44,15 +44,84 @@ The learner has been away from school for about eight years and is now studying 
 
 ## Study Progress
 
-AGENTS.md records selected questions and completion status. After explaining each question, update AGENTS.md immediately only when the learner explicitly confirms understanding. Confirmed reference pages are tracked in `study-pages/2103/unit-1/`: `page-02.png` (No. 5), `page-03.png` (No. 6-7), `page-05.png` (No. 10), and `page-06.png` (No. 11). Other renders remain local under `tmp/`.
+This section is the study-status dashboard. A question is marked **completed** only after it has been explained and the learner has explicitly confirmed understanding. Update the status immediately after that confirmation.
 
-- Paper 2103, Unit 1 — No. 5, 6, 7, 10, and 11: completed after learner confirmation.
-- Additional foundation — Trigonometric ratios: studied SOH-CAH-TOA, the special-angle values for `0°, 30°, 45°, 60°, 90°`, and using `F cos θ` for horizontal components and `F sin θ` for vertical components. Detailed Burmese explanations are saved in [`study-notes/trigonometric-ratios.md`](study-notes/trigonometric-ratios.md). Retain for future review.
-- English learning plan based on the `eng.pdf` exam format is saved in [`study-notes/english-learning-plan.md`](study-notes/english-learning-plan.md). Keep future English notes under `study-notes/` with the `english-` filename prefix; keep temporary renders under `tmp/pdfs/eng/` and confirmed reference pages under `study-pages/eng/<unit>/`.
-- English — Reading Section I(a), reference words: completed after learner confirmation. Practised identifying what “This movement,” “It,” “them,” “These groups,” and “which” refer to in a passage.
-- English — Reading Section I(b), matching: completed after learner confirmation. Practised matching paraphrased descriptions with the correct people or activities in a passage.
-- English — Reading Section I(c), True / False: completed after learner confirmation. Practised deciding statements from passage evidence and noticing limiting words such as “all,” “completely,” and “some.”
-- English — Reading Section I(d), answering passage questions: completed after learner confirmation. Practised answering why/how/result questions in complete sentences and correcting passive forms such as “could be saved.” Reading Section I is complete.
-- English — Section III Word Forms foundation lesson: completed after learner confirmation. Practised choosing noun, adjective, adverb, and verb forms, including `refusal`, `improvements`, `useful/used`, and `enlarge`. The complete Section III opening review under the new teaching protocol is also completed after learner confirmation; the learner answered the four understanding checks correctly, so source exercises may resume question by question.
-- English — Section III, Exercise I No. 1: completed after learner confirmation. Practised `to be + adjective` (`healthy`) and coordinated adjectives describing a noun (`nutritious and fresh fruit`).
-- Paper 2109 — selected questions from the yellow-highlighted images: **Ex. 1.1** (completed after learner confirmation), **MQ No. 2 (Model Question)** (completed after learner confirmation), **S.A. 1.1 (1)** (completed after learner confirmation), **S.A. 1.1 (2)(i)**, **S.A. 1.1 (2)(ii)**, **Ex. 1.2**, **No. 3**, the problem starting **“If `r = [x, y, z]`, prove that …”** (harmonic function), **No. 2** starting **“If `C` is a closed circuit …”**, and the problem starting **“Find the gradient of the function …”**. The first No. 2 is MQ; the later No. 2 is the closed-circuit problem. Except for Ex. 1.1, MQ No. 2, and S.A. 1.1 (1), these are selected only and are not yet marked complete. Learner counts S.A. 1.1 (2)(i) and (ii) together as one question; the current practice set total is 8 questions.
+### အမြန်ကြည့်ရန် (လက်ရှိအခြေအနေ)
+
+| အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔁 အရင်ပြန်လေ့လာရန်              | Paper 2109 — No. 3, directional derivative                                                                                                                |
+| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem                                                                          |
+| ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ |
+| 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
+
+### အခြေအနေအဓိပ္ပါယ်
+
+- ✅ **ပြီးဆုံးပြီးသား** — ရှင်းပြပြီး learner က နားလည်ကြောင်း အတည်ပြုပြီးသား။
+- 🔁 **ပြန်လေ့လာရန်** — ရှင်းပြပြီးသားဖြစ်သော်လည်း ပြန်သုံးသပ်ပြီးမှ completion အဖြစ် အတည်ပြုရန်ကျန်။
+- ▶️ **ဆက်လေ့လာရန်** — ရွေးထားပြီးသော်လည်း မေးခွန်းအဖြစ် မပြီးဆုံးသေး။
+- 📚 **ကိုးကား/ပြန်ကြည့်ရန်** — မေးခွန်းတစ်ပုဒ်၏ completion status မဟုတ်ဘဲ နောင်ပြန်အသုံးပြုရန် note သို့မဟုတ် reference။
+
+### 🔁 အခု ပြန်လေ့လာပြီး အတည်ပြုရန်ကျန်
+
+#### Paper 2109 — No. 3
+
+- **မေးခွန်းအမျိုးအစား** — Directional derivative.
+- **ပေးထားချက်** — `φ = x²yz + 4xz²`, point `(1, -2, -1)`, direction `2i - j - 2k`.
+- ရှင်းပြပြီးသားဖြစ်ပြီး learner က `∂(4xz²)/∂y = 0` ဖြစ်ရသည့်အကြောင်းကို မှန်ကန်စွာ ဖော်ပြနိုင်ခဲ့သည်။
+- Learner က နောက်တစ်ကြိမ် ပြန်သုံးသပ်လိုကြောင်း ပြောထားသဖြင့် **မပြီးဆုံးသေး**။ ပြန်ရှင်းပြပြီး နားလည်ကြောင်း အတည်ပြုပြီးမှ ✅ ပြောင်းရန်။
+- အစောပိုင်းတွင် ဖတ်မှားပြီး ဖြေထားသော line-integral response သည် ဤ No. 3 ၏အဖြေမဟုတ်ပါ။
+
+### ▶️ ဆက်လေ့လာရန်ကျန်
+
+#### Paper 2109 — ရွေးထားသော မေးခွန်းများ
+
+အောက်ပါမေးခွန်းများကို **No. 3 ပြန်လေ့လာပြီးနောက်** အစဉ်လိုက် ဆက်ရှင်းပြရန် —
+
+1. **“If `r = [x, y, z]`, prove that …”** — harmonic function problem.
+2. **“If `C` is a closed circuit …”** — closed-circuit problem; this is the later No. 2, not MQ No. 2.
+3. **“Find the gradient of the function …”** — gradient problem.
+
+#### English — Section III
+
+- Word Forms foundation lesson နှင့် Section III opening review ပြီးဆုံးပြီးဖြစ်သည်။
+- Section III, Exercise I **No. 1** ပြီးဆုံးပြီးဖြစ်သည်။
+- ထို့ကြောင့် source exercises ကို **Exercise I No. 2 မှစ၍** question by question ဆက်လေ့ကျင့်ရန်။
+
+### ✅ ပြီးဆုံးပြီးသား
+
+#### Paper 2103 — Unit 1
+
+- No. 5, No. 6, No. 7, No. 10, No. 11 — learner confirmation ရပြီး ပြီးဆုံး။
+
+#### English — Reading Section I
+
+- **I(a) Reference words** — “This movement,” “It,” “them,” “These groups,” “which” တို့၏ ရည်ညွှန်းချက်များကို ရှာဖွေခြင်း။
+- **I(b) Matching** — paraphrased descriptions နှင့် မှန်ကန်သော people/activities ကို တွဲခြင်း။
+- **I(c) True / False** — passage evidence နှင့် “all,” “completely,” “some” ကဲ့သို့ limiting words များကို သတိပြုခြင်း။
+- **I(d) Passage questions** — why/how/result မေးခွန်းများကို complete sentences ဖြင့် ဖြေခြင်းနှင့် `could be saved` ကဲ့သို့ passive forms ကို ပြင်ဆင်ခြင်း။
+- Reading Section I တစ်ခုလုံး ပြီးဆုံး။
+
+#### English — Section III Word Forms
+
+- Noun, adjective, adverb, verb forms ရွေးချယ်ခြင်း — `refusal`, `improvements`, `useful/used`, `enlarge`။
+- Section III opening review အပြည့်အစုံ — learner confirmation ရပြီး ပြီးဆုံး။
+- Exercise I No. 1 — `to be + adjective` (`healthy`) နှင့် noun ကို ဖော်ပြသော coordinated adjectives (`nutritious and fresh fruit`)။
+
+#### Paper 2109 — အတည်ပြုပြီးသော မေးခွန်းများ
+
+- **Ex. 1.1** — ထပ်မံ full-mark proof ဖြင့် review ပြီး။
+- **MQ No. 2 (Model Question)** — full-mark vector နှင့် scalar-product justification ဖြင့် review ပြီး။
+- **S.A. 1.1 (1)** — full-mark theorem wording ဖြင့် review ပြီး။
+- **S.A. 1.1 (2)(i) နှင့် (ii)** — တစ်ပုဒ်အဖြစ်တွက်ပြီး determinant signs နှင့် full-mark vector-product working ကို review ပြီး။
+- **Ex. 1.2** — full-mark determinant working ဖြင့် review ပြီး။
+- **Cross-product foundation review** — right-handed unit-vector rules, reversed-order signs, anti-commutative property, နှင့် vector × itself = zero vector။
+
+### 📚 ကိုးကားရန်နှင့် နောင်ပြန်ကြည့်ရန်
+
+- **Trigonometric ratios foundation** — SOH-CAH-TOA, special-angle values `0°`, `30°`, `45°`, `60°`, `90°`, horizontal component `F cos θ`, vertical component `F sin θ`။ အသေးစိတ် Burmese notes ကို [`study-notes/trigonometric-ratios.md`](study-notes/trigonometric-ratios.md) တွင် သိမ်းထားသည်။ လိုအပ်သလို ပြန်လေ့လာရန်။
+- English learning plan ကို [`study-notes/english-learning-plan.md`](study-notes/english-learning-plan.md) တွင် သိမ်းထားသည်။ Future English notes များကို `study-notes/` အောက်တွင် `english-` prefix ဖြင့် သိမ်းရန်။
+- Paper 2103 confirmed reference pages — `study-pages/2103/unit-1/`: `page-02.png` (No. 5), `page-03.png` (No. 6–7), `page-05.png` (No. 10), `page-06.png` (No. 11)။ အခြား renders များကို `tmp/` အောက်တွင်သာထားရန်။
+- English confirmed reference pages များကို `study-pages/eng/<unit>/` တွင်ထားရန်။ Temporary renders များကို `tmp/pdfs/eng/` တွင်ထားရန်။
+- Paper 2109 ၏ နောက်ထပ် solution များတွင် theorem/identity အမည်များနှင့် mark-scheme-ready working အပြည့်အစုံ ထည့်ရန်။
