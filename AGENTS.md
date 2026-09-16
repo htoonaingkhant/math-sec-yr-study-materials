@@ -50,7 +50,7 @@ This section is the study-status dashboard. A question is marked **completed** o
 
 | အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔁 အရင်ပြန်လေ့လာရန်              | Paper 2109 — No. 3, directional derivative                                                                                                                |
+| ✅ ပြန်လည်အတည်ပြုပြီး          | Paper 2109 — No. 3, directional derivative                                                                                                                |
 | ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem                                                                          |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
 | ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ |
@@ -63,14 +63,14 @@ This section is the study-status dashboard. A question is marked **completed** o
 - ▶️ **ဆက်လေ့လာရန်** — ရွေးထားပြီးသော်လည်း မေးခွန်းအဖြစ် မပြီးဆုံးသေး။
 - 📚 **ကိုးကား/ပြန်ကြည့်ရန်** — မေးခွန်းတစ်ပုဒ်၏ completion status မဟုတ်ဘဲ နောင်ပြန်အသုံးပြုရန် note သို့မဟုတ် reference။
 
-### 🔁 အခု ပြန်လေ့လာပြီး အတည်ပြုရန်ကျန်
+### ✅ အခု ပြန်လေ့လာပြီး အတည်ပြုပြီး
 
 #### Paper 2109 — No. 3
 
 - **မေးခွန်းအမျိုးအစား** — Directional derivative.
 - **ပေးထားချက်** — `φ = x²yz + 4xz²`, point `(1, -2, -1)`, direction `2i - j - 2k`.
-- ရှင်းပြပြီးသားဖြစ်ပြီး learner က `∂(4xz²)/∂y = 0` ဖြစ်ရသည့်အကြောင်းကို မှန်ကန်စွာ ဖော်ပြနိုင်ခဲ့သည်။
-- Learner က နောက်တစ်ကြိမ် ပြန်သုံးသပ်လိုကြောင်း ပြောထားသဖြင့် **မပြီးဆုံးသေး**။ ပြန်ရှင်းပြပြီး နားလည်ကြောင်း အတည်ပြုပြီးမှ ✅ ပြောင်းရန်။
+- Gradient, unit direction vector, scalar product အဆင့်များကို ပြန်လည်ရှင်းပြပြီး learner က နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- အဖြေ — `37/3`။
 - အစောပိုင်းတွင် ဖတ်မှားပြီး ဖြေထားသော line-integral response သည် ဤ No. 3 ၏အဖြေမဟုတ်ပါ။
 
 ### ▶️ ဆက်လေ့လာရန်ကျန်
