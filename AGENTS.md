@@ -51,7 +51,7 @@ This section is the study-status dashboard. A question is marked **completed** o
 | အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
-| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်)                                                        |
+| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
 | ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
@@ -82,6 +82,18 @@ This section is the study-status dashboard. A question is marked **completed** o
 1. **“If `r = [x, y, z]`, prove that …”** — harmonic function problem; explanation deferred for later because it was difficult.
 2. **“If `C` is a closed circuit …”** — closed-circuit problem; this is the later No. 2, not MQ No. 2; explanation given but learner confirmation pending; defer for later.
 3. **“Find the gradient of the function …”** — gradient problem.
+
+#### Paper 2102 — ရွေးထားသော မေးခွန်းများ
+
+- **Unit I** — No. 4, 6, 8, 9
+- **Unit II** — No. 5, 6, 7
+- **Assignment 1** — No. 1, 4
+- **Assignment 2** — No. 4
+- လက်ရှိရရှိထားသော reference images များကို အောက်ပါအတိုင်း သိမ်းထားသည် —
+  - `study-pages/2102/assignment-1/2102-assignment-1-no-1.png`
+  - `study-pages/2102/assignment-1/2102-assignment-1-no-4-part-1.png`
+  - `study-pages/2102/assignment-1/2102-assignment-1-no-4-part-2.png`
+  - `study-pages/2102/assignment-2/2102-assignment-2-no-4.png`
 
 #### English — Section IIIm
 
