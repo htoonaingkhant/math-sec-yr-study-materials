@@ -50,8 +50,8 @@ This section is the study-status dashboard. A question is marked **completed** o
 
 | အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ ပြန်လည်အတည်ပြုပြီး          | Paper 2109 — No. 3, directional derivative                                                                                                                |
-| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem                                                                          |
+| 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
+| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်)                                                        |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
 | ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
@@ -79,11 +79,11 @@ This section is the study-status dashboard. A question is marked **completed** o
 
 အောက်ပါမေးခွန်းများကို **No. 3 ပြန်လေ့လာပြီးနောက်** အစဉ်လိုက် ဆက်ရှင်းပြရန် —
 
-1. **“If `r = [x, y, z]`, prove that …”** — harmonic function problem.
-2. **“If `C` is a closed circuit …”** — closed-circuit problem; this is the later No. 2, not MQ No. 2.
+1. **“If `r = [x, y, z]`, prove that …”** — harmonic function problem; explanation deferred for later because it was difficult.
+2. **“If `C` is a closed circuit …”** — closed-circuit problem; this is the later No. 2, not MQ No. 2; explanation given but learner confirmation pending; defer for later.
 3. **“Find the gradient of the function …”** — gradient problem.
 
-#### English — Section III
+#### English — Section IIIm
 
 - Word Forms foundation lesson နှင့် Section III opening review ပြီးဆုံးပြီးဖြစ်သည်။
 - Section III, Exercise I **No. 1** ပြီးဆုံးပြီးဖြစ်သည်။
@@ -117,6 +117,7 @@ This section is the study-status dashboard. A question is marked **completed** o
 - **S.A. 1.1 (2)(i) နှင့် (ii)** — တစ်ပုဒ်အဖြစ်တွက်ပြီး determinant signs နှင့် full-mark vector-product working ကို review ပြီး။
 - **Ex. 1.2** — full-mark determinant working ဖြင့် review ပြီး။
 - **Cross-product foundation review** — right-handed unit-vector rules, reversed-order signs, anti-commutative property, နှင့် vector × itself = zero vector။
+- **No. 3** — directional derivative; gradient, unit direction vector, နှင့် dot product ကို အသုံးပြု၍ ဖြေရှင်းပြီး learner confirmation ရရှိ။
 
 ### 📚 ကိုးကားရန်နှင့် နောင်ပြန်ကြည့်ရန်
 
