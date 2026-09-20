@@ -53,7 +53,7 @@ This section is the study-status dashboard. A question is marked **completed** o
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
 | ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
-| ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
 
 ### အခြေအနေအဓိပ္ပါယ်
@@ -102,6 +102,31 @@ This section is the study-status dashboard. A question is marked **completed** o
 - ထို့ကြောင့် source exercises ကို **Exercise I No. 2 မှစ၍** question by question ဆက်လေ့ကျင့်ရန်။
 
 ### ✅ ပြီးဆုံးပြီးသား
+
+#### Paper 2110 — Question 1(i)
+
+- Graph theory အခြေခံစကားလုံးများ — vertex, edge, degree, cycle, connected graph, tree, terminal vertex — ကို ရှင်းပြပြီးနောက် “Tree; all vertices of degree 2” သည် မဖြစ်နိုင်ကြောင်း ရှင်းပြခဲ့သည်။
+- Learner က degree, cycle မရှိခြင်းနှင့် terminal vertices ကို နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Question 1(ii)
+
+- `E` နှင့် `F` တို့၏ degree သည် `3` ဖြစ်ပြီး `A,B,C,D` တို့၏ degree သည် `1` ဖြစ်ကြောင်း learner က အတည်ပြုခဲ့သည်။
+- အဆိုပါ graph သည် connected ဖြစ်ပြီး cycle မရှိသောကြောင့် tree ဖြစ်ကြောင်း ရှင်းပြပြီးသည်။
+
+#### Paper 2110 — Question 1(iii)
+
+- `A—B—C—D—E—F—G` နှင့် isolated vertex `H` ကို အသုံးပြု၍ vertices `8` ခုနှင့် edges `6` ကြောင်းရှိသော graph ကို တည်ဆောက်ပြခဲ့သည်။
+- မေးခွန်းတွင် tree သို့မဟုတ် connected ဖြစ်ရမည်ဟု မသတ်မှတ်ထားသောကြောင့် `H` သီးခြားဖြစ်နေလည်း အဖြေမှန်ကြောင်း learner က နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Question 1(iv)
+
+- `A—B—C—D—E` နှင့် isolated vertex `F` ကို အသုံးပြု၍ vertices `6` ခု၊ edges `4` ကြောင်းနှင့် cycle မရှိသော graph ကို တည်ဆောက်ပြခဲ့သည်။
+- Learner က acyclic ဖြစ်/မဖြစ်သည်မှာ isolated vertex ရှိ/မရှိမဟုတ်ဘဲ loop/cycle ရှိ/မရှိပေါ် မူတည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Question 1(v)
+
+- `v1,v2,v3,v4` သည် internal vertices `4` ခု၊ `v5` မှ `v10` သည် terminal vertices `6` ခုဖြစ်ကြောင်း learner က အတည်ပြုခဲ့သည်။
+- Graph သည် connected ဖြစ်ပြီး cycle မရှိသောကြောင့် tree ဖြစ်ကြောင်း ရှင်းပြပြီးသည်။
 
 #### Paper 2103 — Unit 1
 
