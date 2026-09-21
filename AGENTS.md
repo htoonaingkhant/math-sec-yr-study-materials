@@ -159,6 +159,8 @@ This section is the study-status dashboard. A question is marked **completed** o
 ### 📚 ကိုးကားရန်နှင့် နောင်ပြန်ကြည့်ရန်
 
 - **Trigonometric ratios foundation** — SOH-CAH-TOA, special-angle values `0°`, `30°`, `45°`, `60°`, `90°`, horizontal component `F cos θ`, vertical component `F sin θ`။ အသေးစိတ် Burmese notes ကို [`study-notes/trigonometric-ratios.md`](study-notes/trigonometric-ratios.md) တွင် သိမ်းထားသည်။ လိုအပ်သလို ပြန်လေ့လာရန်။
+- Paper 2103 Unit 1 ရွေးထားသော မေးခွန်းများ၏ full working ကို [`study-notes/2103-unit-1-selected-solutions.md`](study-notes/2103-unit-1-selected-solutions.md) တွင် သိမ်းထားသည်။
+- Paper 2109 Unit 1 ရွေးထားသော မေးခွန်းများ၏ solution notes နှင့် confirmation status ကို [`study-notes/2109-unit-1-selected-solutions.md`](study-notes/2109-unit-1-selected-solutions.md) တွင် သိမ်းထားသည်။
 - English learning plan ကို [`study-notes/english-learning-plan.md`](study-notes/english-learning-plan.md) တွင် သိမ်းထားသည်။ Future English notes များကို `study-notes/` အောက်တွင် `english-` prefix ဖြင့် သိမ်းရန်။
 - Paper 2103 confirmed reference pages — `study-pages/2103/unit-1/`: `page-02.png` (No. 5), `page-03.png` (No. 6–7), `page-05.png` (No. 10), `page-06.png` (No. 11)။ အခြား renders များကို `tmp/` အောက်တွင်သာထားရန်။
 - English confirmed reference pages များကို `study-pages/eng/<unit>/` တွင်ထားရန်။ Temporary renders များကို `tmp/pdfs/eng/` တွင်ထားရန်။
