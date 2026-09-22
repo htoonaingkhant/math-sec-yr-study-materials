@@ -51,7 +51,7 @@ This section is the study-status dashboard. A question is marked **completed** o
 | အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
-| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ |
+| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ; Paper 2104 — recurrence problem B, C |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
 | ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
@@ -155,6 +155,10 @@ This section is the study-status dashboard. A question is marked **completed** o
 - **Ex. 1.2** — full-mark determinant working ဖြင့် review ပြီး။
 - **Cross-product foundation review** — right-handed unit-vector rules, reversed-order signs, anti-commutative property, နှင့် vector × itself = zero vector။
 - **No. 3** — directional derivative; gradient, unit direction vector, နှင့် dot product ကို အသုံးပြု၍ ဖြေရှင်းပြီး learner confirmation ရရှိ။
+
+#### Paper 2104 — Recurrence Relations: Compound Interest
+
+- **Problem A** — 2000 K ကို 14% annually compounded interest ဖြင့် ရင်းနှီးမြှုပ်နှံသည့် မေးခွန်းကို recurrence relation, initial condition, first terms, explicit formula နှင့် doubling time အပါအဝင် ရှင်းပြပြီး learner က နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
 
 ### 📚 ကိုးကားရန်နှင့် နောင်ပြန်ကြည့်ရန်
 
