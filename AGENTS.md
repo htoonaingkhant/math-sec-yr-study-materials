@@ -53,7 +53,7 @@ This section is the study-status dashboard. A question is marked **completed** o
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
 | ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ; Paper 2104 — recurrence problem B, C |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
-| ✅ ပြီးဆုံးပြီးသား                | Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
 
 ### အခြေအနေအဓိပ္ပါယ်
@@ -131,6 +131,12 @@ This section is the study-status dashboard. A question is marked **completed** o
 #### Paper 2103 — Unit 1
 
 - No. 5, No. 6, No. 7, No. 10, No. 11 — learner confirmation ရပြီး ပြီးဆုံး။
+
+#### Paper 2101 — No. 5(i)
+
+- `f(z)=iz+2` ကို `z=x+iy` အစားထိုး၍ `f(z)=(2-y)+ix` ဖြစ်ကြောင်းရှင်းပြပြီး `u(x,y)=2-y`, `v(x,y)=x` ဟု ခွဲခြားခဲ့သည်။
+- `u_x=0`, `u_y=-1`, `v_x=1`, `v_y=0` ကိုရှာပြီး Cauchy–Riemann equations `u_x=v_y` နှင့် `u_y=-v_x` မှန်ကြောင်း စစ်ဆေးခဲ့သည်။
+- `f'(z)=u_x+iv_x=i` နှင့် `f''(z)=0` ကို ရှင်းပြပြီး learner က နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
 
 #### English — Reading Section I
 
