@@ -52,8 +52,8 @@ This section is the study-status dashboard. A question is marked **completed** o
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
 | ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ; Paper 2104 — recurrence problem B, C |
-| ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
-| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
+| ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises; Grammar Patterns 1–8 review (#11, #12, #14 ပြန်ပြင်ရန်ကျန်) |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
 
 ### အခြေအနေအဓိပ္ပါယ်
@@ -151,6 +151,24 @@ This section is the study-status dashboard. A question is marked **completed** o
 - Noun, adjective, adverb, verb forms ရွေးချယ်ခြင်း — `refusal`, `improvements`, `useful/used`, `enlarge`။
 - Section III opening review အပြည့်အစုံ — learner confirmation ရပြီး ပြီးဆုံး။
 - Exercise I No. 1 — `to be + adjective` (`healthy`) နှင့် noun ကို ဖော်ပြသော coordinated adjectives (`nutritious and fresh fruit`)။
+
+#### English — Grammar: “It is / It was” exercise 3–6
+
+- Cleft sentence ပုံစံဖြင့် အလေးပေးရမည့် အပိုင်းကို ရှေ့တင်ခြင်းကို လေ့ကျင့်ခဲ့သည်။
+- No. 3 နှင့် No. 6 ကို မှန်ကန်စွာရေးခဲ့သည်။ No. 4 ၏ရေးပုံကို လက်ခံနိုင်ပြီး underline လုပ်ထားသော prepositional phrase တစ်ခုလုံးကို ရှေ့တင်သည့် စာမေးပွဲအတွက် ပိုသင့်သောပုံစံကိုလည်း ပြန်လည်ရှင်းပြခဲ့သည်။ No. 5 တွင် မူရင်း `students` ကို plural ထားရမည်ကို ပြင်ဆင်ခဲ့သည်။
+- Learner က ရှင်းလင်းချက်ကို နားလည်ကြောင်း 2026-09-28 တွင် အတည်ပြုခဲ့သည်။
+
+#### English — Grammar: Omitting Relative Pronouns
+
+- PDF page 4 မှ R.P. (`who`, `whom`, `which`, `that`) ကို object ဖြစ်လျှင် တစ်လုံးတည်းချန်ခြင်း၊ subject ဖြစ်လျှင် `V-ing`/`V3` ဖြင့် relative clause ကို အတိုချုံးခြင်းတို့ကို ရှင်းပြခဲ့သည်။
+- PDF exercises 1–4 နှင့် လေ့ကျင့်ခန်းအသစ် 1–10 ကို ဖြေရှင်းခဲ့သည်။ Learner ၏ grammar အဖြေများအားလုံးမှန်ပြီး စာလုံးရိုက်မှားမှု ၂ ခုသာ ပြင်ဆင်ခဲ့သည်။
+- Learner က `R.P. + subject + verb` တွင် R.P. ကိုဖြုတ်ပြီး ကျန်တာထားရန်နှင့် `R.P. + be + V-ing` တွင် `R.P. + be` ကိုဖြုတ်ပြီး `V-ing` ကိုထားရန် နားလည်ကြောင်း 2026-09-28 တွင် အတည်ပြုခဲ့သည်။
+
+#### English — Grammar Patterns 1–8 review
+
+- Pattern 1 မှ 8 အထိကို လေ့လာပြီး pattern တစ်ခုလျှင် မေးခွန်း ၂ ခုစီ၊ စုစုပေါင်း ၁၆ ခု ဖြေဆိုခဲ့သည်။
+- Pattern 1–5, Pattern 7 နှင့် Pattern 8 တွင် အဓိကအဖြေများ မှန်ကန်ခဲ့သည်။ Pattern 6/7 နှင့် သက်ဆိုင်သော #11, #12, #14 ကို formula အတိုင်း ပြန်ရေးရန် ကျန်သေးသည်။
+- Learner ၏ လေ့လာမှုကို မှတ်တမ်းတင်ထားသော်လည်း #11, #12, #14 မပြီးသေးသောကြောင့် Pattern 1–8 review ကို completed ဟု မမှတ်သေးပါ။
 
 #### Paper 2109 — အတည်ပြုပြီးသော မေးခွန်းများ
 
