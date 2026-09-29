@@ -18,12 +18,12 @@
 
 A word family contains words with a shared basic meaning but different grammatical jobs.
 
-| Job | Name | Burmese meaning | Example from `develop` |
-| --- | --- | --- | --- |
-| action or state | Verb | ကြိယာ | develop |
-| person, thing, place, or idea | Noun | နာမ် | development, developer |
-| description of a noun | Adjective | နာမဝိသေသန | developed, developing |
-| description of a verb, adjective, or adverb | Adverb | ကြိယာဝိသေသန | developmentally |
+| Job                                         | Name      | Burmese meaning        | Example from`develop` |
+| ------------------------------------------- | --------- | ---------------------- | ----------------------- |
+| action or state                             | Verb      | ကြိယာ             | develop                 |
+| person, thing, place, or idea               | Noun      | နာမ်               | development, developer  |
+| description of a noun                       | Adjective | နာမဝိသေသန     | developed, developing   |
+| description of a verb, adjective, or adverb | Adverb    | ကြိယာဝိသေသန | developmentally         |
 
 The task is not simply to change spelling. First identify the grammatical job of the blank, and then choose the form that gives the correct meaning.
 
@@ -83,24 +83,24 @@ Common clues:
 
 ## 3. High-value position rules from the source
 
-| Pattern around the blank | Likely required form |
-| --- | --- |
-| article + blank, with no noun after it | Noun |
-| article + blank + noun | Adjective |
-| possessive + blank | Noun |
-| preposition + blank | Noun or V-ing |
-| demonstrative + blank | Noun |
-| subject + blank + object | Verb |
-| blank + `of` + noun | Noun |
-| `be` + blank | Adjective, V-ing, or V3; meaning decides |
-| `very/quite/so/too` + blank describing a noun | Adjective |
-| main verb + blank describing how | Adverb |
-| `to`, modal, or `do/does/did` + blank | V1 |
-| `has/have/had` + blank | V3 |
-| `let` + object + blank | V1 |
-| `keep/go/carry on` + blank | V-ing |
-| `some/many/few` + blank | Noun; often a plural count noun |
-| `much/little` + blank | Usually an uncountable noun |
+| Pattern around the blank                        | Likely required form                     |
+| ----------------------------------------------- | ---------------------------------------- |
+| article + blank, with no noun after it          | Noun                                     |
+| article + blank + noun                          | Adjective                                |
+| possessive + blank                              | Noun                                     |
+| preposition + blank                             | Noun or V-ing                            |
+| demonstrative + blank                           | Noun                                     |
+| subject + blank + object                        | Verb                                     |
+| blank +`of` + noun                            | Noun                                     |
+| `be` + blank                                  | Adjective, V-ing, or V3; meaning decides |
+| `very/quite/so/too` + blank describing a noun | Adjective                                |
+| main verb + blank describing how                | Adverb                                   |
+| `to`, modal, or `do/does/did` + blank       | V1                                       |
+| `has/have/had` + blank                        | V3                                       |
+| `let` + object + blank                        | V1                                       |
+| `keep/go/carry on` + blank                    | V-ing                                    |
+| `some/many/few` + blank                       | Noun; often a plural count noun          |
+| `much/little` + blank                         | Usually an uncountable noun              |
 
 These are clues, not automatic answers. Meaning and the full sentence must still be checked.
 

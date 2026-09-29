@@ -53,7 +53,7 @@ This section is the study-status dashboard. A question is marked **completed** o
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
 | ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ; Paper 2104 — recurrence problem B, C |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises                                                                                         |
-| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
 
 ### အခြေအနေအဓိပ္ပါယ်
