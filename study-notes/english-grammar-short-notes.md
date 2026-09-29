@@ -27,7 +27,7 @@
 13. Choice/negative choice → `either ... or` / `neither ... nor`
 14. Addition with emphasis → `not only ... but also`
 15. Result → `so + adj/adv + that`
-16. Immediate future → `be about to + V1`
+16. Immediate future → present/past `be about to + V1`; future `will be about to + V1`
 17. Necessity → `have/has/had to + V1`
 18. Means/tool → `by means of + noun`
 19. Difference → `differ in + noun + from`

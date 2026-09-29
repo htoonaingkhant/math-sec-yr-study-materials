@@ -14,6 +14,14 @@
 - Phase 2 — Reading Section I(d), answering passage questions: completed after learner confirmation. Reading Section I is complete.
 - Phase 3 — Word Forms foundation lesson: completed after learner confirmation; Section III practice is ongoing.
 - Phase 3 — Complete Word Forms section-opening review under the new teaching protocol: completed after learner confirmation; source exercises may now resume question by question.
+- Grammar Patterns 1–13: completed after learner confirmation on 2026-09-29.
+- Grammar Pattern 14 (`Not only ... but also`): lesson and five practice questions completed after learner confirmation on 2026-09-29.
+- Grammar Pattern 15 (`so ... that`): lesson and ten practice questions completed after learner confirmation on 2026-09-29. Grammar Pattern 16 is next. Section III Exercise I No. 2 remains queued.
+- Grammar Pattern 16 (`be about to`): lesson and five practice questions completed after learner confirmation on 2026-09-29. Grammar Pattern 17 is next. Section III Exercise I No. 2 remains queued.
+- Grammar Pattern 17 (`have to`): lesson and five practice questions completed after learner confirmation on 2026-09-29. Grammar Pattern 18 is next. Section III Exercise I No. 2 remains queued.
+- Grammar Pattern 18 (`by means of`): lesson and five practice questions completed after learner confirmation on 2026-09-29. Grammar Pattern 19 is next. Section III Exercise I No. 2 remains queued.
+- Grammar Pattern 19 (`differ in ... from`): lesson and five slash-format practice questions completed after learner confirmation on 2026-09-29. Grammar Pattern 20 is next. Section III Exercise I No. 2 remains queued.
+- Grammar Pattern 20 (`as if`): lesson and five slash-format practice questions completed after learner confirmation on 2026-09-29. Grammar Patterns 1–20 are complete. Section III Exercise I No. 2 remains queued.
 
 ## Source and exam blueprint
 
@@ -136,6 +144,16 @@ After the section-opening lesson is understood, each question will follow this o
 6. correct mistakes and explain why they occurred
 7. check understanding before moving on
 
+### Sequential Grammar Pattern workflow
+
+For the learner's numbered English Grammar Patterns, continue from the next uncompleted number and use this confirmed lesson and practice format:
+
+1. Teach one pattern in Burmese. Explain its meaning, formula, grammatical terms, recognition clues, construction steps, a worked example, and common mistakes. Explain agreement, tense, parallel forms, or inversion whenever the pattern requires them.
+2. Ask the learner to describe the rule and explicitly confirm understanding before giving practice.
+3. Prepare about five new questions in the style of the supplied exam example. Preserve the source layout: use two related sentences when the source uses two sentences, and use slash-separated prompts such as `subject / aspect / comparison` when the source uses slashes. Add the parenthetical instruction to rewrite with the target pattern. Vary the sentence structures while keeping the target pattern clear. Give the five questions together, without an answer key; the learner may answer them together or one at a time.
+4. Review every answer by number. Confirm correct parts, provide a complete corrected sentence for errors, and explain the rule behind each correction. Check that the learner understands the corrections before closing the set.
+5. Mark the pattern lesson and practice complete only after the learner explicitly confirms understanding. Immediately update `AGENTS.md` and this plan, then continue to the next numbered pattern when the learner is ready.
+
 ## File organisation
 
 Keep the English materials in these locations so the workspace does not become scattered:
@@ -146,4 +164,4 @@ Keep the English materials in these locations so the workspace does not become s
 - `tmp/pdfs/eng/` — temporary rendered pages only; do not treat these as confirmed references
 - `study-pages/eng/<unit>/` — confirmed reference pages only, if needed later
 
-The next lesson should give a complete section-opening review for Section III Word Forms before continuing its practice questions. No progress entry is complete until the learner explicitly confirms understanding.
+Grammar Pattern 14 (`Not only ... but also`) and its five-question practice set were completed after the learner confirmed understanding on 2026-09-29. Grammar Pattern 15 (`so ... that`) and its ten-question practice set were completed after the learner confirmed understanding on 2026-09-29. Grammar Pattern 16 (`be about to`) and its five-question practice set were completed after the learner confirmed understanding on 2026-09-29. Grammar Pattern 17 (`have to`) and its five-question practice set were completed after the learner confirmed understanding on 2026-09-29. Grammar Pattern 18 (`by means of`) and its five-question practice set were completed after the learner confirmed understanding on 2026-09-29. Grammar Pattern 19 (`differ in ... from`) and its five slash-format practice questions were completed after the learner confirmed understanding on 2026-09-29. Grammar Pattern 20 (`as if`) and its five slash-format practice questions were completed after the learner confirmed understanding on 2026-09-29. Grammar Patterns 1–20 are complete. Section III Exercise I No. 2 remains queued for question-by-question practice. No progress entry is complete until the learner explicitly confirms understanding.

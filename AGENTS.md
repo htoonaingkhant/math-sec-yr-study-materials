@@ -40,7 +40,7 @@ Treat scans and derived text as potentially sensitive. Do not upload them to ext
 
 ## Learner Context & Explanation Protocol
 
-The learner has been away from school for about eight years and is now studying Second Year Mathematics without having taken First Year. Assume that most fundamentals, terminology, givens, question interpretation, theorems, and methods need rebuilding. Explain primarily in Burmese, from first principles: define terms and symbols, identify givens and unknowns, translate the question into a plan, explain why each theorem or method applies, show every calculation step, and point out common mistakes. For English, before starting practice questions from any exam section, first teach that whole section carefully: its purpose, terminology, question patterns, required foundations, rules, recognition clues, step-by-step answering method, model examples, and common mistakes. Check the learner's understanding of this section introduction before beginning its exercises. Check understanding after each question. Never mark a question complete until the learner explicitly confirms understanding.
+The learner has been away from school for about eight years and is now studying Second Year Mathematics without having taken First Year. Assume that most fundamentals, terminology, givens, question interpretation, theorems, and methods need rebuilding. Explain primarily in Burmese, from first principles: define terms and symbols, identify givens and unknowns, translate the question into a plan, explain why each theorem or method applies, show every calculation step, and point out common mistakes. For English, before starting practice questions from any exam section, first teach that whole section carefully: its purpose, terminology, question patterns, required foundations, rules, recognition clues, step-by-step answering method, model examples, and common mistakes. Check the learner's understanding of this section introduction before beginning its exercises. For sequential English Grammar Pattern study, follow the confirmed workflow in `study-notes/english-learning-plan.md`. Check understanding after each question. Never mark a question complete until the learner explicitly confirms understanding.
 
 ## Study Progress
 
@@ -52,8 +52,8 @@ This section is the study-status dashboard. A question is marked **completed** o
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
 | ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ; Paper 2104 — recurrence problem B, C |
-| ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises; Grammar Patterns 1–8 review (#11, #12, #14 ပြန်ပြင်ရန်ကျန်) |
-| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
+| ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English Grammar Patterns 1–20 နှင့် Pattern 14/15/16/17/18/19/20 လေ့ကျင့်ခန်းများ, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
 
 ### အခြေအနေအဓိပ္ပါယ်
@@ -164,11 +164,18 @@ This section is the study-status dashboard. A question is marked **completed** o
 - PDF exercises 1–4 နှင့် လေ့ကျင့်ခန်းအသစ် 1–10 ကို ဖြေရှင်းခဲ့သည်။ Learner ၏ grammar အဖြေများအားလုံးမှန်ပြီး စာလုံးရိုက်မှားမှု ၂ ခုသာ ပြင်ဆင်ခဲ့သည်။
 - Learner က `R.P. + subject + verb` တွင် R.P. ကိုဖြုတ်ပြီး ကျန်တာထားရန်နှင့် `R.P. + be + V-ing` တွင် `R.P. + be` ကိုဖြုတ်ပြီး `V-ing` ကိုထားရန် နားလည်ကြောင်း 2026-09-28 တွင် အတည်ပြုခဲ့သည်။
 
-#### English — Grammar Patterns 1–8 review
+#### English — Grammar Patterns 1–20
 
-- Pattern 1 မှ 8 အထိကို လေ့လာပြီး pattern တစ်ခုလျှင် မေးခွန်း ၂ ခုစီ၊ စုစုပေါင်း ၁၆ ခု ဖြေဆိုခဲ့သည်။
-- Pattern 1–5, Pattern 7 နှင့် Pattern 8 တွင် အဓိကအဖြေများ မှန်ကန်ခဲ့သည်။ Pattern 6/7 နှင့် သက်ဆိုင်သော #11, #12, #14 ကို formula အတိုင်း ပြန်ရေးရန် ကျန်သေးသည်။
-- Learner ၏ လေ့လာမှုကို မှတ်တမ်းတင်ထားသော်လည်း #11, #12, #14 မပြီးသေးသောကြောင့် Pattern 1–8 review ကို completed ဟု မမှတ်သေးပါ။
+- `english-grammar-short-notes.md` နှင့် `english-grammar-patterns.md` ထဲရှိ numbering အတိုင်း Pattern 1 မှ Pattern 20 အထိ လေ့လာပြီး သင်ခန်းစာများပြီးဆုံးခဲ့သည်။
+- Pattern 9–13 သည် `To + V1`, `V-ing`, `Without + V-ing`, `By + V-ing`, `Either ... or / Neither ... nor` ဖြစ်သည်။
+- Pattern 14 (`Not only ... but also`) တွင် A/B grammatical form တူညီမှု၊ sentence-initial `Not only` ၌ ပထမ clause သာ inversion ဖြစ်ပုံနှင့် subject–verb agreement ကို ရှင်းပြပြီး learner က 2026-09-29 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- Pattern 14 လေ့ကျင့်ခန်း ၅ ပုဒ်ကို learner က ပြင်ဆင်ချက်များ နားလည်ကြောင်း 2026-09-29 တွင် အတည်ပြုပြီးနောက် ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်ခဲ့သည်။
+- Pattern 15 (`so ... that`) ၏ adjective/adverb၊ `so many/few + plural count noun` နှင့် `so much/little + uncountable noun` ပုံစံများကို ရှင်းပြခဲ့သည်။ Learner က မေးခွန်း ၁၀ ပုဒ်ကို ဖြေပြီး ပြင်ဆင်ချက်များကို 2026-09-29 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။ Pattern 15 ပြီးဆုံးပြီး နောက်တစ်ခုမှာ Pattern 16 ဖြစ်သည်။
+- Pattern 16 (`be about to`) တွင် Present/Past/Future active ပုံစံများ၊ passive ပုံစံများနှင့် PDF ၏ Future formula `will be about to + V1` ကို ရှင်းပြခဲ့သည်။ Learner က မေးခွန်း ၅ ပုဒ်လုံးကို မှန်ကန်စွာဖြေပြီး နားလည်ကြောင်း 2026-09-29 တွင် အတည်ပြုခဲ့သည်။ Pattern 16 ပြီးဆုံးပြီး နောက်တစ်ခုမှာ Pattern 17 ဖြစ်သည်။
+- Pattern 17 (`have to`) တွင် `have/has/had/will have to + V1`၊ `don't/doesn't have to` နှင့် `mustn't` တို့၏ အဓိပ္ပာယ်ကွာခြားမှုကို ရှင်းပြခဲ့သည်။ Learner က မေးခွန်း ၅ ပုဒ်ကို ဖြေပြီး ပြင်ဆင်ချက်များကို 2026-09-29 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။ Pattern 17 ပြီးဆုံးပြီး နောက်တစ်ခုမှာ Pattern 18 ဖြစ်သည်။
+- Pattern 18 (`by means of`) တွင် `by means of + noun` နှင့် `X enables Y to ...` ကို `By means of X, Y can ...` သို့ ပြောင်းရေးနည်းကို ရှင်းပြခဲ့သည်။ Learner က မေးခွန်း ၅ ပုဒ်ကို ဖြေပြီး ပြင်ဆင်ချက်များကို 2026-09-29 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။ Pattern 18 ပြီးဆုံးပြီး နောက်တစ်ခုမှာ Pattern 19 ဖြစ်သည်။
+- Pattern 19 (`differ in ... from`) တွင် singular/plural subject agreement၊ `in` နောက်က ကွာခြားချက်နှင့် `from` နောက်က နှိုင်းယှဉ်စရာကို ရှင်းပြခဲ့သည်။ Source PDF ၏ slash format (`subject / aspect / comparison`) ဖြင့် မေးခွန်း ၅ ပုဒ်ကို ဖြေပြီး learner က 2026-09-29 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။ Pattern 19 ပြီးဆုံးပြီး နောက်တစ်ခုမှာ Pattern 20 ဖြစ်သည်။
+- Pattern 20 (`as if`) တွင် present unreal `as if + S + V2`၊ past unreal `as if + S + had + V3` နှင့် unreal `be` အတွက် `were` ကို ရှင်းပြခဲ့သည်။ Source slash format ဖြင့် မေးခွန်း ၅ ပုဒ်ကို ဖြေပြီး learner က 2026-09-29 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။ Grammar Patterns 1–20 ပြီးဆုံးပြီး English grammar pattern sequence တွင် နောက်ထပ် pattern မကျန်ပါ။
 
 #### Paper 2109 — အတည်ပြုပြီးသော မေးခွန်းများ
 
