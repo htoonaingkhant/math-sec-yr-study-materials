@@ -46,14 +46,26 @@ The learner has been away from school for about eight years and is now studying 
 
 This section is the study-status dashboard. A question is marked **completed** only after it has been explained and the learner has explicitly confirmed understanding. Update the status immediately after that confirmation.
 
+### တွဲဘာသာ Paper Mapping
+
+စာမေးပွဲ paper များကို ၆ ကွာသော တွဲဘာသာများအဖြစ် မှတ်ယူရန် —
+
+- **Paper 2101 ↔ Paper 2107**
+- **Paper 2102 ↔ Paper 2108**
+- **Paper 2103 ↔ Paper 2109**
+- **Paper 2104 ↔ Paper 2110**
+- **Paper 2105 ↔ Paper 2111**
+
+Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အောင်မှတ်အတွက် ရွေးချယ်မှုနှင့် အချိန်ခွဲဝေမှုများကို ၎င်း၏ တွဲဖက် paper နှင့် ဆက်စပ်စဉ်းစားရန်။
+
 ### အမြန်ကြည့်ရန် (လက်ရှိအခြေအနေ)
 
 | အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
-| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2102 — ရွေးချယ်ထားသော Unit I, Unit II နှင့် Assignment မေးခွန်းများ; Paper 2104 — recurrence problem B, C |
+| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2104 — recurrence problem B, C |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises |
-| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English Grammar Patterns 1–20 နှင့် Pattern 14/15/16/17/18/19/20 လေ့ကျင့်ခန်းများ, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2102 Unit I No. 4, No. 6, No. 8, No. 9၊ Assignment 1 No. 1, No. 4၊ Assignment 2 No. 4 (Unit II No. 2 နှင့်တူ) နှင့် Unit II No. 2, 5, 6, 7, Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English Grammar Patterns 1–20 နှင့် Pattern 14/15/16/17/18/19/20 လေ့ကျင့်ခန်းများ, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
 
 ### အခြေအနေအဓိပ္ပါယ်
@@ -190,6 +202,64 @@ This section is the study-status dashboard. A question is marked **completed** o
 #### Paper 2104 — Recurrence Relations: Compound Interest
 
 - **Problem A** — 2000 K ကို 14% annually compounded interest ဖြင့် ရင်းနှီးမြှုပ်နှံသည့် မေးခွန်းကို recurrence relation, initial condition, first terms, explicit formula နှင့် doubling time အပါအဝင် ရှင်းပြပြီး learner က နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2102 — Unit II No. 2
+
+- `y''+y=0` ကို power-series method ဖြင့် ဖြေရှင်းခဲ့သည်။
+- `y=Σ_{n=0}^{∞}c_nx^n` ဟုယူ၍ identity principle အသုံးပြုကာ
+  `c_{n+2}=-c_n/[(n+2)(n+1)]` ကိုရရှိခဲ့သည်။
+- Even-power နှင့် odd-power series များကို `cos x` နှင့် `sin x` အဖြစ် ခွဲခြားပြီး `y=c_0 cos x+c_1 sin x` ဟုရရှိခဲ့သည်။
+- Learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Unit II No. 5
+
+- `(x-3)y'+2y=0` ကို power-series method ဖြင့် ဖြေရှင်းခဲ့သည်။
+- Recurrence relation `c_{n+1}=(n+2)c_n/[3(n+1)]`၊ coefficient formula `c_n=(n+1)c_0/3^n` နှင့် radius of convergence `ρ=3` ကို ရရှိခဲ့သည်။
+- Learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Unit II No. 6
+
+- `(x-1)y'+2y=0` ကို power-series method ဖြင့် ဖြေရှင်းခဲ့သည်။
+- Recurrence relation `c_{n+1}=(n+2)c_n/(n+1)`၊ coefficient formula `c_n=(n+1)c_0` နှင့် radius of convergence `ρ=1` ကို ရရှိခဲ့သည်။
+- Learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Unit II No. 7
+
+- `(x^2+1)y''+2xy'-2y=0`၊ `y(0)=0` နှင့် `y'(0)=1` ကို power-series method ဖြင့် ဖြေရှင်းခဲ့သည်။
+- Recurrence relation `c_{n+2}=(1-n)c_n/(n+1)` မှတစ်ဆင့် `c_0=0`, `c_1=1` နှင့် အခြား coefficients များ သုညဖြစ်ကြောင်း ရှာဖွေခဲ့သည်။
+- Required solution သည် `y=x` ဖြစ်ကြောင်း အတည်ပြုခဲ့သည်။ PDF ထဲက `y'(0)=1 ⇒ c_1=0` သည် typo ဖြစ်ပြီး `c_1=1` ဖြစ်ရမည်။
+- Learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Unit I No. 8
+
+- `y''-2y'+2y=x+1`၊ `y(0)=3` နှင့် `y'(0)=0` ကို characteristic-equation method ဖြင့် ဖြေရှင်းခဲ့သည်။
+- Complementary solution `y_c=e^x(C_1 cos x+C_2 sin x)`၊ particular solution `y_p=(1/2)x+1` နှင့် initial conditions မှ `C_1=2`, `C_2=-5/2` ကို ရရှိခဲ့သည်။
+- Final solution `y=e^x(2 cos x-(5/2) sin x)+(1/2)x+1` ဖြစ်ကြောင်း learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Unit I No. 6
+
+- `y''+6y'+13y=e^{-3x}\cos 2x` အတွက် complementary solution `y_c=e^{-3x}(C_1\cos 2x+C_2\sin 2x)` ကို ရှာဖွေခဲ့သည်။
+- RHS ပုံစံအရ မူလ particular form `e^{-3x}(A\cos 2x+B\sin 2x)` ဖြစ်သော်လည်း `y_c` နှင့် ထပ်နေသောကြောင့် `x` တစ်ခါမြှောက်ရပြီး appropriate form သည် `y_p=xe^{-3x}(A\cos 2x+B\sin 2x)` ဖြစ်ကြောင်း ရှင်းပြခဲ့သည်။
+- Learner က Unit I No. 6 ကို နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Unit I No. 4
+
+- ပေးထားသော linearly independent solutions `y_1=e^x`, `y_2=e^{2x}`, `y_3=e^{3x}` ကို အသုံးပြု၍ third-order homogeneous equation ၏ general solution `y=C_1e^x+C_2e^{2x}+C_3e^{3x}` ကို ရေးခဲ့သည်။
+- `y(0)=0`, `y'(0)=0`, `y''(0)=3` ကို အသုံးပြု၍ `C_1=3/2`, `C_2=-3`, `C_3=3/2` ရှာဖွေခဲ့သည်။
+- Particular solution `y=(3/2)e^x-3e^{2x}+(3/2)e^{3x}` ဖြစ်ကြောင်း learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Unit I No. 9
+
+- `y''+3y'+2y=4e^x` ကို variation of parameters ဖြင့် ဖြေရှင်းခဲ့သည်။ Homogeneous solutions `y_1=e^{-x}`, `y_2=e^{-2x}` နှင့် Wronskian `W=-e^{-3x}` ကို ရှာဖွေခဲ့သည်။
+- `y_p=u_1y_1+u_2y_2` ဟုယူပြီး auxiliary condition `u_1'y_1+u_2'y_2=0` မှတစ်ဆင့် `u_1'=-y_2g/W`, `u_2'=y_1g/W` formula များထွက်လာပုံကို ရှင်းပြခဲ့သည်။
+- `u_1=2e^{2x}`, `u_2=-(4/3)e^{3x}` ရရှိပြီး particular solution `y_p=(2/3)e^x` ဖြစ်ကြောင်း learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+
+#### Paper 2102 — Assignments
+
+- **Assignment 1 No. 1** — (i) `y_1=e^x cos x` နှင့် `y_2=e^x sin x` တို့ကို `y''-2y'+2y=0` ထဲ substitute လုပ်၍ solution များဖြစ်ကြောင်း စစ်ဆေးခဲ့သည်။ (ii) `9y''-12y'+4y=0` အတွက် characteristic equation `9r^2-12r+4=(3r-2)^2=0` မှ repeated root `r=2/3` ရပြီး general solution `y=(C_1+C_2x)e^{2x/3}` ရရှိခဲ့သည်။ Learner က နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
+- **Assignment 1 No. 4** — `y'''+3y''-10y'=0`၊ `y(0)=7`, `y'(0)=0`, `y''(0)=70` ကို characteristic-equation method ဖြင့် ဖြေရှင်းပြီး `y=2e^{-5x}+5e^{2x}` ရရှိခဲ့သည်။
+- **Assignment 2 No. 4** — `y''+y=0` ကို power-series method ဖြင့် ဖြေရှင်းသည့် မေးခွန်းဖြစ်ပြီး Unit II No. 2 နှင့် တူညီသောကြောင့် ထို completion နှင့်အတူ covered ဖြစ်သည်။
+- Learner က Assignment 1 No. 1 နှင့် No. 4 ကို နားလည်ကြောင်း အတည်ပြုပြီး ပြီးဆုံးအဖြစ် မှတ်တမ်းတင်သည်။
 
 ### 📚 ကိုးကားရန်နှင့် နောင်ပြန်ကြည့်ရန်
 
