@@ -1,0 +1,373 @@
+Paper 2102 - LAST-MINUTE REVIEW
+================================
+
+အခြေခံ symbol များ
+------------------
+
+y′   = dy/dx
+y″   = d²y/dx²
+y‴   = d³y/dx³
+
+C_1, C_2, C_3  = arbitrary constants
+c_0, c_1, c_2  = power-series coefficients
+y_c          = complementary solution
+y_p          = particular solution
+W            = Wronskian
+R            = radius of convergence
+
+Power-series notation:
+
+y  = sum_{n=0}^{infinity} c_n x^n
+y′ = sum_{n=0}^{infinity} (n+1)c_{n+1}x^n
+y″ = sum_{n=0}^{infinity} (n+2)(n+1)c_{n+2}x^n
+
+============================================================
+1. မေးခွန်းမြင်တာနဲ့ နည်းလမ်းခွဲခြားရန်
+============================================================
+
+ay″ + by′ + cy = 0
+    -> characteristic equation
+
+RHS တွင် x, eˣ, sin x, cos x ပါ
+    -> y = y_c + y_p
+
+"appropriate form for a particular solution"
+    -> y_p ၏ ပုံစံကိုသာရေး
+
+"variation of parameters"
+    -> W, u_1′, u_2′ formula
+
+"power-series method"
+    -> y = sum_{n=0}^{infinity} c_n x^n ဟုစပြီး coefficients ညှိ
+
+y(0), y′(0), y″(0) ပေးထား
+    -> general solution ထဲ substitute လုပ်
+
+y_1, y_2, y_3 are linearly independent
+    -> y = C_1y_1 + C_2y_2 + C_3y_3
+
+============================================================
+2. Characteristic-equation method
+============================================================
+
+ay″ + by′ + cy = 0
+y = eʳˣ ဟုယူ
+ar² + br + c = 0
+
+Root ပုံစံများ:
+
+Distinct real roots r_1, r_2:
+y = C_1eʳ¹ˣ + C_2eʳ²ˣ
+
+Repeated root r:
+y = (C_1 + C_2x)eʳˣ
+
+Complex roots r = α ± βi:
+y = eᵅˣ(C_1 cos βx + C_2 sin βx)
+
+Initial conditions ထည့်ရန်:
+1. General solution ရေး။
+2. လိုအပ်သော y′, y″ ကိုရှာ။
+3. x = 0 ထည့်ပြီး equations ဖွဲ့။
+4. C_1, C_2, C_3 ရှာ။
+5. Final solution ရေး။
+
+============================================================
+3. Unit I No. 4 - y_1, y_2, y_3 ပေးထားသော 3rd-order IVP
+============================================================
+
+ပေးထားသည်:
+y_1 = eˣ,   y_2 = e²ˣ,   y_3 = e³ˣ
+
+အဆင့်များ:
+1. y  = C_1eˣ + C_2e²ˣ + C_3e³ˣ
+2. y′ = C_1eˣ + 2C_2e²ˣ + 3C_3e³ˣ
+3. y″ = C_1eˣ + 4C_2e²ˣ + 9C_3e³ˣ
+4. x = 0 ထည့်ပြီး equations သုံးခုဖွဲ့။
+5. C_1, C_2, C_3 ရှာ။
+
+Final:
+y = (3/2)eˣ − 3e²ˣ + (3/2)e³ˣ
+
+============================================================
+4. Assignment 1 No. 1
+============================================================
+
+(i) Verify လုပ်ခြင်း
+
+y_1 = eˣ cos x,   y_2 = eˣ sin x
+
+တစ်ခုချင်းစီအတွက်:
+1. y′ ရှာ။
+2. y″ ရှာ။
+3. y″ − 2y′ + 2y ထဲ substitute လုပ်။
+4. ရလဒ် 0 ဖြစ်ကြောင်းရေး။
+
+(ii) Repeated root
+
+9y″ − 12y′ + 4y = 0
+9r² − 12r + 4 = 0
+(3r − 2)² = 0
+r = 2/3
+
+Final:
+y = (C_1 + C_2x)e²ˣ⁄³
+
+သတိ:
+Repeated root ဖြစ်လျှင် ဒုတိယ term တွင် x မဖြစ်မနေပါရမည်။
+
+============================================================
+5. Assignment 1 No. 4 - Third-order IVP
+============================================================
+
+y‴ + 3y″ − 10y′ = 0
+
+r³ + 3r² − 10r = 0
+r(r + 5)(r − 2) = 0
+r = 0, −5, 2
+
+y = C_1 + C_2e⁻⁵ˣ + C_3e²ˣ
+
+Initial conditions ထည့်ပြီး:
+C_1 + C_2 + C_3 = 7
+−5C_2 + 2C_3 = 0
+25C_2 + 4C_3 = 70
+
+C_1 = 0,  C_2 = 2,  C_3 = 5
+
+Final:
+y = 2e⁻⁵ˣ + 5e²ˣ
+
+============================================================
+6. Unit I No. 8 - Non-homogeneous IVP
+============================================================
+
+y″ − 2y′ + 2y = x + 1
+
+အဆင့်များ:
+
+1. Homogeneous part:
+   r² − 2r + 2 = 0
+   r = 1 ± i
+   y_c = eˣ(C_1 cos x + C_2 sin x)
+
+2. RHS = x + 1 ဖြစ်သောကြောင့်:
+   y_p = Ax + B ဟုယူ။
+
+3. y_p′ = A, y_p″ = 0 ကို equation ထဲထည့်။
+   A = 1/2, B = 1
+
+4. y = y_c + y_p
+5. y(0) = 3, y′(0) = 0 ထည့်။
+
+Final:
+y = eˣ(2 cos x − (5/2) sin x) + (1/2)x + 1
+
+============================================================
+7. Unit I No. 6 - Appropriate particular-solution form
+============================================================
+
+y″ + 6y′ + 13y = e⁻³ˣ cos 2x
+
+1. r² + 6r + 13 = 0
+   r = −3 ± 2i
+
+2. y_c = e⁻³ˣ(C_1 cos 2x + C_2 sin 2x)
+
+3. RHS ပုံစံအရ မူလ form:
+   e⁻³ˣ(A cos 2x + B sin 2x)
+
+4. ထို form သည် y_c နှင့် ထပ်နေသောကြောင့် x တစ်ခါမြှောက်။
+
+Final required form:
+y_p = xe⁻³ˣ(A cos 2x + B sin 2x)
+
+"appropriate form" ဟုသာမေးလျှင် A, B ကို မရှာရသေးပါ။
+
+============================================================
+8. Unit I No. 9 - Variation of parameters
+============================================================
+
+y″ + 3y′ + 2y = 4eˣ
+
+အဆင့်များ:
+
+1. r² + 3r + 2 = 0
+   r = −1, −2
+
+2. y_1 = e⁻ˣ,   y_2 = e⁻²ˣ
+
+3. W = y_1y_2′ − y_1′y_2
+   W = −e⁻³ˣ
+
+4. g(x) = 4eˣ
+
+5. u_1′ = −y_2g/W
+   u_2′ =  y_1g/W
+
+6. Integrate:
+   u_1 = 2e²ˣ
+   u_2 = −(4/3)e³ˣ
+
+7. y_p = u_1y_1 + u_2y_2
+
+Final:
+y_p = (2/3)eˣ
+
+သတိ:
+W = y_1y_2′ − y_1′y_2 ၏ အစီအစဉ်မပြောင်းပါနှင့်။
+
+============================================================
+9. Power-series method - အမြဲသုံးရမည့် အဆင့်များ
+============================================================
+
+1. y = sum_{n=0}^{infinity} c_n x^n ဟုယူ။
+2. y′ နှင့် y″ ကိုရေး။
+3. Equation ထဲ substitute လုပ်။
+4. xⁿ တူညီသော terms များကို စု။
+5. Coefficient တစ်ခုချင်းစီ 0 နှင့်ညီစေ။
+6. Recurrence relation ရှာ။
+7. Initial conditions မှ c_0, c_1 ရှာ။
+8. Series ကိုရေး။
+9. လိုအပ်လျှင် known series သို့ပြောင်း။
+10. Radius R ရှာ။
+
+Initial conditions:
+c_0 = y(0)
+c_1 = y′(0)
+
+============================================================
+10. Unit II No. 5 - (x − 3)y′ + 2y = 0
+============================================================
+
+y = sum_{n=0}^{infinity} c_n x^n
+y′ = sum_{n=0}^{infinity} (n+1)c_{n+1}x^n
+
+Substitute ပြီး coefficient comparison လုပ်လျှင်:
+(n + 2)c_n − 3(n + 1)c_{n+1} = 0
+
+c_{n+1} = (n + 2)c_n / [3(n + 1)]
+c_n = (n + 1)c_0 / 3ⁿ
+
+Series:
+y = c_0[1 + 2(x/3) + 3(x/3)² + 4(x/3)³ + ⋯]
+
+Radius:
+R = 3
+
+============================================================
+11. Unit II No. 6 - (x − 1)y′ + 2y = 0
+============================================================
+
+Unit II No. 5 နှင့် အဆင့်တူပြီး 3 နေရာတွင် 1 ပြောင်း။
+
+(n + 2)c_n − (n + 1)c_{n+1} = 0
+c_{n+1} = (n + 2)c_n/(n + 1)
+c_n = (n + 1)c_0
+
+Series:
+y = c_0[1 + 2x + 3x² + 4x³ + ⋯]
+
+Radius:
+R = 1
+
+General shortcut:
+(x − a)y′ + 2y = 0
+
+c_{n+1} = (n + 2)c_n/[a(n + 1)]
+c_n = (n + 1)c_0/aⁿ
+R = |a|
+
+============================================================
+12. Unit II No. 2 / Assignment 2 No. 4 - y″ + y = 0
+============================================================
+
+y = sum_{n=0}^{infinity} c_n x^n
+y″ = sum_{n=0}^{infinity} (n+2)(n+1)c_{n+2}x^n
+
+(n + 2)(n + 1)c_{n+2} + c_n = 0
+
+c_{n+2} = −c_n/[(n+2)(n+1)]
+
+Even powers နှင့် odd powers ခွဲလျှင်:
+
+y = c_0(1 − x²/2! + x⁴/4! − ⋯)
+  + c_1(x − x³/3! + x⁵/5! − ⋯)
+
+Final:
+y = c_0 cos x + c_1 sin x
+
+============================================================
+13. Unit II No. 7 - Power-series IVP
+============================================================
+
+(x² + 1)y″ + 2xy′ − 2y = 0
+y(0) = 0,   y′(0) = 1
+
+Coefficient comparison:
+c_{n+2} = (1 − n)c_n/(n + 1)
+
+Initial conditions:
+c_0 = y(0) = 0
+c_1 = y′(0) = 1
+
+Recurrence ကိုသုံးလျှင် c_2, c_3, c_4, ... အားလုံး 0 ဖြစ်သည်။
+
+Final:
+y = x
+
+PDF ထဲတွင် y′(0)=1 => c_1=0 ဟုပါလာလျှင် typo ဖြစ်သည်။
+မှန်သည်မှာ c_1 = 1 ဖြစ်သည်။
+
+============================================================
+14. Final-answer map
+============================================================
+
+Unit I No. 4:
+y = (3/2)eˣ − 3e²ˣ + (3/2)e³ˣ
+
+Unit I No. 6:
+y_p = xe⁻³ˣ(A cos 2x + B sin 2x)
+
+Unit I No. 8:
+y = eˣ(2 cos x − (5/2) sin x) + (1/2)x + 1
+
+Unit I No. 9:
+y_p = (2/3)eˣ
+
+Unit II No. 5:
+c_n = (n+1)c_0/3ⁿ,   R = 3
+
+Unit II No. 6:
+c_n = (n+1)c_0,   R = 1
+
+Unit II No. 7:
+y = x
+
+Assignment 1 No. 1(ii):
+y = (C_1 + C_2x)e²ˣ⁄³
+
+Assignment 1 No. 4:
+y = 2e⁻⁵ˣ + 5e²ˣ
+
+Assignment 2 No. 4:
+y = c_0 cos x + c_1 sin x
+
+============================================================
+15. စာမေးပွဲခန်းထဲတွင် မမေ့ရန်
+============================================================
+
+1. y′ နှင့် y″ ကို မရောပါနှင့်။
+2. Repeated root တွင် x မထည့်မိပါနှင့်။
+3. Power series တွင် c_0 = y(0), c_1 = y′(0)။
+4. W = y_1y_2′ − y_1′y_2 ၏ sign ကိုစစ်ပါ။
+5. RHS နှင့် y_c ထပ်နေလျှင် y_p ကို x မြှောက်ပါ။
+6. Radius of convergence R သည် positive value ဖြစ်သည်။
+7. အဖြေမပြီးလျှင် method, formula, substitution, recurrence ကိုရေးထားပါ။
+
+အချိန်အလွန်နည်းလျှင်:
+1. Section 1 - symbols
+2. Section 2 - characteristic roots
+3. Section 9 - power-series steps
+4. Section 10, 11, 12, 13 - power-series questions
+5. Section 14 - final answers
