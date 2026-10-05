@@ -1,8 +1,8 @@
 # Paper 2109 Unit 1 — ရွေးထားသောပုဒ်စာများ ရှင်းပြချက်
 
-သိမ်းသည့်ရက် — 2026-09-18
+မူရင်းသိမ်းသည့်ရက် — 2026-09-18; source-order ပြင်ဆင်သည့်ရက် — 2026-10-04
 
-ဒီ note သည် [2109-all-selected-questions-v2.png](../study-pages/2109/2109-all-selected-questions-v2.png) တွင် စုစည်းထားသော Unit 1 ရွေးထားသည့် မေးခွန်းများ၏ solution notes ဖြစ်သည်။ Vector Algebra မေးခွန်း No. 1–6 နှင့် Vector Calculus မေးခွန်းများကို မေးခွန်းနံပါတ် မလွဲစေရန် source list အတိုင်း စီထားသည်။
+ဒီ note သည် [2109-all-selected-questions-v3-a4.jpg](../study-pages/2109/2109-all-selected-questions-v3-a4.jpg) တွင် စုစည်းထားသော Unit 1 ရွေးထားသည့် မေးခွန်းများ၏ solution notes ဖြစ်သည်။ Vector Algebra မေးခွန်း No. 1–6 နှင့် Vector Calculus မေးခွန်းများကို source selected list အစဉ်အတိုင်း စီထားသည်။
 
 ## အခြေခံသင်္ကေတများ
 
@@ -66,31 +66,37 @@ Dot product zero ဖြစ်သောကြောင့် `BA` နှင့်
 
 `angle ABC = 90°` ဖြစ်သည်။
 
-## No. 3 — S.A. 1.1 (1): Vectors နှစ်ခုကြား angle
+**လက်ရှိ re-review အခြေအနေ — 2026-10-04 တွင် ရှင်းပြပြီး learner confirmation ရရှိ။**
 
-### ပေးထားချက်
+## No. 3 — S.A. 1.1 (1): Vector identity proof
 
-`a = 2i + 2j - k`, `b = 6i - 3j + 2k`
+### မေးခွန်း
 
-### Dot product နှင့် magnitude
+သက်သေပြရန်မှာ
 
-`a · b = (2)(6) + (2)(-3) + (-1)(2) = 12 - 6 - 2 = 4`
+`(a × b) · (c × d) = (a · c)(b · d) - (a · d)(b · c)` ဖြစ်သည်။
 
-`|a| = sqrt(2^2 + 2^2 + (-1)^2) = sqrt(9) = 3`
+### PDF ထဲက vector-triple-product နည်း
 
-`|b| = sqrt(6^2 + (-3)^2 + 2^2) = sqrt(49) = 7`
+`(a × b) · (c × d) = ((a × b) × c) · d` ဟု scalar-triple-product cyclic property ကို အသုံးပြုသည်။
 
-Angle formula `a · b = |a||b| cos(theta)` ဖြစ်သောကြောင့်
+Vector triple-product identity
 
-`4 = (3)(7) cos(theta)`
+`(a × b) × c = (a · c)b - (b · c)a`
 
-`cos(theta) = 4/21`
+ကို ထည့်လျှင်
 
-`theta = cos^(-1)(4/21) approx 79°`
+`((a × b) × c) · d`
 
-### အဖြေ
+`= [(a · c)b - (b · c)a] · d`
 
-`theta = cos^(-1)(4/21) approx 79°`။
+`= (a · c)(b · d) - (b · c)(a · d)`
+
+Dot product သည် commutative ဖြစ်သောကြောင့် `b · c = c · b` နှင့် `a · d = d · a` ဖြစ်သည်။ ထို့ကြောင့်
+
+`(a × b) · (c × d) = (a · c)(b · d) - (a · d)(b · c)`။
+
+Hence proved.
 
 ## No. 4 — S.A. 1.1 (2)(i): Scalar triple product
 
@@ -223,6 +229,8 @@ Point `(1,-2,-1)` တွင်
 ### အဖြေ
 
 **Directional derivative = `37/3`.** Learner confirmation ရရှိထားသည်။
+
+**လက်ရှိ re-review အခြေအနေ — 2026-10-04 တွင် ပြန်လည်ရှင်းပြပြီး learner confirmation ရရှိ။**
 
 ## No. 8 — Question No. 1: `1/r` သည် harmonic ဖြစ်ကြောင်းပြခြင်း
 

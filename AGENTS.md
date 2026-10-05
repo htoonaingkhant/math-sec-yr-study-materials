@@ -22,6 +22,10 @@ pdftotext 2109.pdf -
 
 Use `file` for type, `pdfinfo` for page count and metadata, and `pdftotext` to check for an extractable text layer. Scanned PDFs may intentionally produce no text output.
 
+## Reusable Math-Formula Artifact Workflow
+
+When a user asks to create or correct a formula sheet, selected-question formula map, solution-note image, or phone-readable PDF containing mathematical notation for any paper or subject, read [`docs/math-formula-rendering-workflow.md`](docs/math-formula-rendering-workflow.md) before editing. Follow that workflow end-to-end: Unicode Myanmar for ordinary prose, MathJax-rendered equations for all mathematical formulas, one PDF for multi-page output, and visual inspection of every final page before delivery.
+
 ## Coding Style & Naming Conventions
 
 No programming language or formatter is configured. For documentation, use clear Markdown headings, short paragraphs, and fenced command examples. Keep original filenames unchanged. New filenames should use lowercase descriptive suffixes, hyphens, and the original numeric ID; avoid ambiguous names and spaces where practical.
@@ -62,8 +66,8 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
 
 | အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔁 အရင်ပြန်လေ့လာရန်              | မရှိသေးပါ                                                                                                                                                 |
-| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem, closed-circuit problem, gradient problem (နောက်မှပြန်လေ့လာရန်); Paper 2104 — recurrence problem B, C |
+| 🔁 အရင်ပြန်လေ့လာရန်              | Paper 2109 — selected questions ကို source/PDF အစဉ်အတိုင်း ပြန်လည်လေ့လာနေသည်။ Ex. 1.1 ကို ပြန်လည်ရှင်းပြပြီး confirmation ရရှိပြီ။ |
+| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem (selected-list item 8) မှစ၍; Paper 2104 — recurrence problem B, C; Paper 2110 — selected item 3 မှစ၍ (items 1–2 ပြီးဆုံး) |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises |
 | ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2102 Unit I No. 4, No. 6, No. 8, No. 9၊ Assignment 1 No. 1, No. 4၊ Assignment 2 No. 4 (Unit II No. 2 နှင့်တူ) နှင့် Unit II No. 2, 5, 6, 7, Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English Grammar Patterns 1–20 နှင့် Pattern 14/15/16/17/18/19/20 လေ့ကျင့်ခန်းများ, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
@@ -77,7 +81,15 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
 
 ### ✅ အခု ပြန်လေ့လာပြီး အတည်ပြုပြီး
 
-#### Paper 2109 — No. 3
+#### Paper 2109 — Ex. 1.1 (current re-review)
+
+- PDF နှင့် selected reference image ထဲက dot-product proof အတိုင်း
+  `|a| = √(a · a) = √(a₁² + a₂² + a₃²)` ကို ပြန်လည်ရှင်းပြခဲ့သည်။
+- Learner က unit-vector dot-product rules၊ `a · a = |a|²` နှင့် square-root step ကို မှန်ကန်စွာဖြေပြီး 2026-10-04 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- **Model Question No. 2** — `\overrightarrow{BA}=a-b`, `\overrightarrow{BC}=c-b` ကိုရှာပြီး dot product သုညမှ right angle ဖြစ်ကြောင်း ပြန်လည်ရှင်းပြခဲ့သည်။ Learner က 2026-10-04 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- **Question No. 3 (selected-list item 7)** — gradient၊ unit direction vector နှင့် dot product ဖြင့် directional derivative ကို ပြန်လည်ရှင်းပြခဲ့သည်။ Learner က `37/3` ကို နားလည်ကြောင်း 2026-10-04 တွင် အတည်ပြုခဲ့သည်။
+
+#### Paper 2109 — Question No. 3 (previous review; selected-list item 7)
 
 - **မေးခွန်းအမျိုးအစား** — Directional derivative.
 - **ပေးထားချက်** — `φ = x²yz + 4xz²`, point `(1, -2, -1)`, direction `2i - j - 2k`.
@@ -89,11 +101,18 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
 
 #### Paper 2109 — ရွေးထားသော မေးခွန်းများ
 
-အောက်ပါမေးခွန်းများကို **No. 3 ပြန်လေ့လာပြီးနောက်** အစဉ်လိုက် ဆက်ရှင်းပြရန် —
+Source selected image/PDF အစဉ်အတိုင်း ဆက်လက်လေ့လာရန် —
 
-1. **“If `r = [x, y, z]`, prove that …”** — harmonic function problem; explanation deferred for later because it was difficult.
-2. **“If `C` is a closed circuit …”** — closed-circuit problem; this is the later No. 2, not MQ No. 2; explanation given but learner confirmation pending; defer for later.
-3. **“Find the gradient of the function …”** — gradient problem.
+1. **Ex. 1.1** — ✅ current re-review completed.
+2. **Model Question No. 2** — ▶️ next.
+3. **S.A. 1.1 (1)** — vector identity proof.
+4. **S.A. 1.1 (2)(i)** — scalar triple product.
+5. **S.A. 1.1 (2)(ii)** — vector triple product.
+6. **Ex. 1.2** — `(a × b) × c`.
+7. **Question No. 3** — directional derivative.
+8. **Question No. 1** — harmonic function.
+9. **Question No. 2** — closed circuit.
+10. **Question No. 3** — gradient.
 
 #### Paper 2102 — ရွေးထားသော မေးခွန်းများ
 
@@ -107,6 +126,26 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
   - `study-pages/2102/assignment-1/2102-assignment-1-no-4-part-2.png`
   - `study-pages/2102/assignment-2/2102-assignment-2-no-4.png`
 
+#### Paper 2110 — learner-confirmed selected questions
+
+Learner ပို့ထားသော reference images အတိုင်း source order ဖြင့် အောက်ပါ ၁၀ ပုဒ်ကို selected set အဖြစ် သတ်မှတ်ထားသည်။ Selected ဖြစ်ခြင်းသည် completion မဟုတ်သေးပါ။
+
+1. `K_3`, `K_4`, `K_5` complete graphs ကို ဆွဲရန်။ ✅ 2026-10-05 ပြန်လည်လေ့လာပြီး နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+2. Complete graph `K_n` ၏ edge အရေအတွက် formula ရှာရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+3. `K_{2,3}`, `K_{2,4}`, `K_{3,3}` complete bipartite graphs ကို ဆွဲရန်။
+4. ပေးထားသော graphs (a)–(d) များ bipartite ဖြစ်လျှင် disjoint vertex sets များ သတ်မှတ်ရန်။
+5. Complete bipartite graph `K_{m,n}` ၏ edge အရေအတွက် formula ရှာရန်။
+6. Vertex တစ်ခုစီကို တစ်ကြိမ်စီဖြတ်သန်းသော minimum-length paths များကို cases သုံးခုအတွက် ရှာရန်။
+7. Tree/acyclic graph properties (i)–(v) အတိုင်း graph ဆွဲရန် သို့မဟုတ် မဖြစ်နိုင်ကြောင်းရှင်းပြရန်။
+8. Rooted tree ၏ vertex levels နှင့် height ရှာရန်။
+9. ပေးထားသော Huffman code ဖြင့် bit strings သုံးခုကို decode လုပ်ရန်။
+10. ပေးထားသော graph တွင် Euler cycle ရှိ/မရှိစစ်ပြီး ရှိလျှင် ထုတ်ပြရန်။
+
+- Selected-question reference image — `study-pages/2110/2110-all-selected-questions-a4.jpg`
+- Figure-inclusive selected-question PDF — `output/pdf/2110-selected-questions-with-figures.pdf` (the single deliverable file).
+- Supplied selected-question reference scans — `study-pages/2110/selected-reference/2110-selected-reference-01.png` through `2110-selected-reference-07.png`
+- Selected item 7 ၏ graph-properties (i)–(v) သည် ယခင်ရှင်းပြပြီး learner confirmation ရထားသော Paper 2110 Question 1(i)–(v) နှင့် ကိုက်ညီသည်။
+
 #### English — Section IIIm
 
 - Word Forms foundation lesson နှင့် Section III opening review ပြီးဆုံးပြီးဖြစ်သည်။
@@ -114,6 +153,18 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
 - ထို့ကြောင့် source exercises ကို **Exercise I No. 2 မှစ၍** question by question ဆက်လေ့ကျင့်ရန်။
 
 ### ✅ ပြီးဆုံးပြီးသား
+
+#### Paper 2110 — Selected item 1: Complete graphs (current re-review)
+
+- (K_n) သည် vertex (n) ခုရှိပြီး မတူညီသော vertex နှစ်ခုတိုင်းကို edge တစ်ကြောင်းစီဖြင့် ဆက်ထားသော complete graph ဖြစ်ကြောင်း ပြန်လည်ရှင်းပြခဲ့သည်။
+- (K_3) သည် triangle၊ (K_4) တွင် vertex တစ်ခုစီ၏ degree (3)၊ (K_5) တွင် edge (10) ကြောင်းရှိကြောင်း စစ်ဆေးခဲ့သည်။
+- Learner က စစ်ဆေးမေးခွန်း ၃ ခုလုံးကို မှန်ကန်စွာဖြေပြီး 2026-10-05 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 2: Number of edges in (K_n)
+
+- Complete graph (K_n) တွင် edge တစ်ကြောင်းစီသည် မတူညီသော vertex နှစ်ခု၏ pair ဖြစ်သောကြောင့်
+  (lvert E(K_n)vert=inom{n}{2}=rac{n(n-1)}{2}) ဖြစ်ကြောင်း ရှင်းပြခဲ့သည်။
+- (n(n-1)) တွင် edge တစ်ကြောင်းကို (AB) နှင့် (BA) ဟု နှစ်ကြိမ်ရေတွက်မိသောကြောင့် (2) ဖြင့်စားရကြောင်း learner က နားလည်ကြောင်း 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
 
 #### Paper 2110 — Question 1(i)
 
@@ -191,13 +242,13 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
 
 #### Paper 2109 — အတည်ပြုပြီးသော မေးခွန်းများ
 
-- **Ex. 1.1** — ထပ်မံ full-mark proof ဖြင့် review ပြီး။
+- **Ex. 1.1** — PDF/reference image နှင့်ကိုက်ညီသော full-mark proof ဖြင့် 2026-10-04 တွင် ပြန်လည်ရှင်းပြပြီး learner confirmation ရရှိ။
 - **MQ No. 2 (Model Question)** — full-mark vector နှင့် scalar-product justification ဖြင့် review ပြီး။
 - **S.A. 1.1 (1)** — full-mark theorem wording ဖြင့် review ပြီး။
 - **S.A. 1.1 (2)(i) နှင့် (ii)** — တစ်ပုဒ်အဖြစ်တွက်ပြီး determinant signs နှင့် full-mark vector-product working ကို review ပြီး။
 - **Ex. 1.2** — full-mark determinant working ဖြင့် review ပြီး။
 - **Cross-product foundation review** — right-handed unit-vector rules, reversed-order signs, anti-commutative property, နှင့် vector × itself = zero vector။
-- **No. 3** — directional derivative; gradient, unit direction vector, နှင့် dot product ကို အသုံးပြု၍ ဖြေရှင်းပြီး learner confirmation ရရှိ။
+- **Question No. 3 (selected-list item 7)** — directional derivative; gradient, unit direction vector, နှင့် dot product ကို အသုံးပြု၍ ဖြေရှင်းပြီး learner confirmation ရရှိ။
 
 #### Paper 2104 — Recurrence Relations: Compound Interest
 
