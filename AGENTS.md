@@ -67,9 +67,9 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
 | အခြေအနေ                                   | အကြောင်းအရာ                                                                                                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🔁 အရင်ပြန်လေ့လာရန်              | Paper 2109 — selected questions ကို source/PDF အစဉ်အတိုင်း ပြန်လည်လေ့လာနေသည်။ Ex. 1.1 ကို ပြန်လည်ရှင်းပြပြီး confirmation ရရှိပြီ။ |
-| ▶️ ဆက်လေ့လာရန်                      | Paper 2109 — harmonic-function problem (selected-list item 8) မှစ၍; Paper 2104 — recurrence problem B, C; Paper 2110 — selected item 3 မှစ၍ (items 1–2 ပြီးဆုံး) |
+| ▶️ ဆက်လေ့လာရန်                      | Paper 2105 — Unit 2 Example 2.1.3/2.1.4 နှင့် selected questions မှစ၍; Paper 2111 — No. 1, 2, 3 |
 | ▶️ နောက်ထပ်လေ့ကျင့်ရန်      | English — Section III, Exercise I No. 2 မှစ၍ source exercises |
-| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2102 Unit I No. 4, No. 6, No. 8, No. 9၊ Assignment 1 No. 1, No. 4၊ Assignment 2 No. 4 (Unit II No. 2 နှင့်တူ) နှင့် Unit II No. 2, 5, 6, 7, Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English Grammar Patterns 1–20 နှင့် Pattern 14/15/16/17/18/19/20 လေ့ကျင့်ခန်းများ, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 Question 1(i)–(v) |
+| ✅ ပြီးဆုံးပြီးသား                | Paper 2101 No. 5(i), Paper 2102 Unit I No. 4, No. 6, No. 8, No. 9၊ Assignment 1 No. 1, No. 4၊ Assignment 2 No. 4 (Unit II No. 2 နှင့်တူ) နှင့် Unit II No. 2, 5, 6, 7, Paper 2103 Unit 1, English Reading Section I, English Section III foundation/No. 1, English Grammar Patterns 1–20 နှင့် Pattern 14/15/16/17/18/19/20 လေ့ကျင့်ခန်းများ, English PDF Section 13 — To + V1, English PDF Section 15 — Without + V-ing, English PDF Section 16 — By + V-ing, English PDF Section 17 — Either…or / Neither…nor, English PDF Sections 1–10 review exercise (20 questions), English Grammar “It is/It was” exercise 3–6, English Grammar “Omitting Relative Pronouns” PDF exercises 1–4 and practice 1–10, Paper 2109 ရှိ အတည်ပြုပြီးသောမေးခွန်းများ; Paper 2110 selected questions Q1–Q10 (current re-review) |
 | 📚 လိုအပ်သလို ပြန်ကြည့်ရန် | Trigonometric-ratios foundation notes                                                                                                                      |
 
 ### အခြေအနေအဓိပ္ပါယ်
@@ -98,6 +98,19 @@ Paper တစ်ခု၏ လေ့လာမှုအစီအစဉ်၊ အေ
 - အစောပိုင်းတွင် ဖတ်မှားပြီး ဖြေထားသော line-integral response သည် ဤ No. 3 ၏အဖြေမဟုတ်ပါ။
 
 ### ▶️ ဆက်လေ့လာရန်ကျန်
+
+#### Paper 2105 — အဓိကလေ့လာရန်
+
+- **Unit 2 No. 1** — `x divides y` relation သည် reflexive, anti-symmetric, transitive ဖြစ်ကြောင်းရှင်းပြပြီး learner က 2026-10-06 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- **Example 2.1.3** — subset relation `A ⊆ B` သည် reflexive, anti-symmetric, transitive ဖြစ်ကြောင်းရှင်းပြပြီး learner က 2026-10-06 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- **Example 2.1.4** — `x is a multiple of y` relation သည် reflexive, anti-symmetric, transitive ဖြစ်ကြောင်းရှင်းပြပြီး learner က 2026-10-06 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- **Unit 2 No. 16** — Hasse diagram မှ minimal elements, maximal elements, first element နှင့် last element ခွဲခြားရှာဖွေနည်းကို ရှင်းပြပြီး learner က 2026-10-06 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- **Unit 2 No. 20** — Ordered set နှင့် inverse order တို့ similar ဖြစ်ကြောင်း၊ order ကို reverse လုပ်ပြီး one-one, onto, order-preserving mapping တည်ဆောက်နည်းကို PDF Page 15 အတိုင်းရှင်းပြပြီး learner က 2026-10-06 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- ဆက်လေ့လာရန် — Unit 1 No. 1, 5, 7, 8, 10, 14, 17, 18, 21။
+
+#### Paper 2111 — အဓိကရွေးထားသော မေးခွန်းများ
+
+- No. 1, No. 2, No. 3 ကိုသာ အဓိကလေ့လာရန်။
 
 #### Paper 2109 — ရွေးထားသော မေးခွန်းများ
 
@@ -132,14 +145,14 @@ Learner ပို့ထားသော reference images အတိုင်း so
 
 1. `K_3`, `K_4`, `K_5` complete graphs ကို ဆွဲရန်။ ✅ 2026-10-05 ပြန်လည်လေ့လာပြီး နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
 2. Complete graph `K_n` ၏ edge အရေအတွက် formula ရှာရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
-3. `K_{2,3}`, `K_{2,4}`, `K_{3,3}` complete bipartite graphs ကို ဆွဲရန်။
-4. ပေးထားသော graphs (a)–(d) များ bipartite ဖြစ်လျှင် disjoint vertex sets များ သတ်မှတ်ရန်။
-5. Complete bipartite graph `K_{m,n}` ၏ edge အရေအတွက် formula ရှာရန်။
-6. Vertex တစ်ခုစီကို တစ်ကြိမ်စီဖြတ်သန်းသော minimum-length paths များကို cases သုံးခုအတွက် ရှာရန်။
-7. Tree/acyclic graph properties (i)–(v) အတိုင်း graph ဆွဲရန် သို့မဟုတ် မဖြစ်နိုင်ကြောင်းရှင်းပြရန်။
-8. Rooted tree ၏ vertex levels နှင့် height ရှာရန်။
-9. ပေးထားသော Huffman code ဖြင့် bit strings သုံးခုကို decode လုပ်ရန်။
-10. ပေးထားသော graph တွင် Euler cycle ရှိ/မရှိစစ်ပြီး ရှိလျှင် ထုတ်ပြရန်။
+3. `K_{2,3}`, `K_{2,4}`, `K_{3,3}` complete bipartite graphs ကို ဆွဲရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+4. ပေးထားသော graphs (a)–(d) များ bipartite ဖြစ်လျှင် disjoint vertex sets များ သတ်မှတ်ရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+5. Complete bipartite graph `K_{m,n}` ၏ edge အရေအတွက် formula ရှာရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+6. Vertex တစ်ခုစီကို တစ်ကြိမ်စီဖြတ်သန်းသော minimum-length paths များကို cases သုံးခုအတွက် ရှာရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+7. Tree/acyclic graph properties (i)–(v) အတိုင်း graph ဆွဲရန် သို့မဟုတ် မဖြစ်နိုင်ကြောင်းရှင်းပြရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+8. Rooted tree ၏ vertex levels နှင့် height ရှာရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+9. ပေးထားသော Huffman code ဖြင့် bit strings သုံးခုကို decode လုပ်ရန်။ ✅ 2026-10-05 နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+10. ပေးထားသော graph တွင် Euler cycle ရှိ/မရှိစစ်ပြီး ရှိလျှင် ထုတ်ပြရန်။ ✅ 2026-10-05 (i) နှင့် (ii) နှစ်ခုလုံး နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
 
 - Selected-question reference image — `study-pages/2110/2110-all-selected-questions-a4.jpg`
 - Figure-inclusive selected-question PDF — `output/pdf/2110-selected-questions-with-figures.pdf` (the single deliverable file).
@@ -156,15 +169,64 @@ Learner ပို့ထားသော reference images အတိုင်း so
 
 #### Paper 2110 — Selected item 1: Complete graphs (current re-review)
 
-- (K_n) သည် vertex (n) ခုရှိပြီး မတူညီသော vertex နှစ်ခုတိုင်းကို edge တစ်ကြောင်းစီဖြင့် ဆက်ထားသော complete graph ဖြစ်ကြောင်း ပြန်လည်ရှင်းပြခဲ့သည်။
-- (K_3) သည် triangle၊ (K_4) တွင် vertex တစ်ခုစီ၏ degree (3)၊ (K_5) တွင် edge (10) ကြောင်းရှိကြောင်း စစ်ဆေးခဲ့သည်။
+- K_n သည် vertex n ခုရှိပြီး မတူညီသော vertex နှစ်ခုတိုင်းကို edge တစ်ကြောင်းစီဖြင့် ဆက်ထားသော complete graph ဖြစ်ကြောင်း ပြန်လည်ရှင်းပြခဲ့သည်။
+- K_3 သည် triangle၊ K_4 တွင် vertex တစ်ခုစီ၏ degree 3၊ K_5 တွင် edge 10 ကြောင်းရှိကြောင်း စစ်ဆေးခဲ့သည်။
 - Learner က စစ်ဆေးမေးခွန်း ၃ ခုလုံးကို မှန်ကန်စွာဖြေပြီး 2026-10-05 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
 
-#### Paper 2110 — Selected item 2: Number of edges in (K_n)
+#### Paper 2110 — Selected item 2: Number of edges in K_n
 
-- Complete graph (K_n) တွင် edge တစ်ကြောင်းစီသည် မတူညီသော vertex နှစ်ခု၏ pair ဖြစ်သောကြောင့်
-  (lvert E(K_n)vert=inom{n}{2}=rac{n(n-1)}{2}) ဖြစ်ကြောင်း ရှင်းပြခဲ့သည်။
-- (n(n-1)) တွင် edge တစ်ကြောင်းကို (AB) နှင့် (BA) ဟု နှစ်ကြိမ်ရေတွက်မိသောကြောင့် (2) ဖြင့်စားရကြောင်း learner က နားလည်ကြောင်း 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
+- Complete graph K_n တွင် edge တစ်ကြောင်းစီသည် မတူညီသော vertex နှစ်ခု၏ pair ဖြစ်သောကြောင့် |E(K_n)| = C(n,2) = n(n-1)/2 ဖြစ်ကြောင်း ရှင်းပြခဲ့သည်။
+- n(n-1) တွင် edge တစ်ကြောင်းကို AB နှင့် BA ဟု နှစ်ကြိမ်ရေတွက်မိသောကြောင့် 2 ဖြင့်စားရကြောင်း learner က နားလည်ကြောင်း 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 3: Complete bipartite graphs (current re-review)
+
+- Bipartite graph တွင် vertex များကို disjoint sets V_1,V_2 နှစ်ခုခွဲပြီး set တစ်ခုအတွင်း edge မရှိဘဲ set တစ်ခုမှ vertex တစ်ခုစီကို အခြား set ရှိ vertex အားလုံးနှင့် ဆက်ရကြောင်း ရှင်းပြခဲ့သည်။
+- K_{2,3}, K_{2,4}, K_{3,3} အတွက် edge အရေအတွက်များကို 2×3=6, 2×4=8, 3×3=9 ဟု စစ်ဆေးခဲ့သည်။
+- Learner က စစ်ဆေးမေးခွန်း ၄ ခုလုံးကို မှန်ကန်စွာဖြေပြီး 2026-10-05 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 4: Testing bipartite graphs (current re-review)
+
+- Bipartite graph တစ်ခုတွင် edge တစ်ကြောင်း၏ အစွန်းနှစ်ဖက်သည် disjoint sets နှစ်ခုအတွင်း တစ်ဖက်စီရှိရကြောင်း ရှင်းပြခဲ့သည်။
+- Graph (a) နှင့် (b) အတွက် valid vertex sets များကို သတ်မှတ်ခဲ့ပြီး graph (c) ကို loop ကြောင့်၊ graph (d) ကို odd cycle ကြောင့် bipartite မဖြစ်ကြောင်း ရှင်းပြခဲ့သည်။
+- Learner က စစ်ဆေးမေးခွန်းများကို နားလည်ကြောင်း 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 5: Number of edges in K_{m,n}
+
+- (K_{m,n}) တွင် (V_1) ၌ vertex (m) ခုနှင့် (V_2) ၌ vertex (n) ခုရှိပြီး (V_1) ၏ vertex တစ်ခုစီမှ (V_2) သို့ edge (n) ကြောင်းစီ ဆက်သောကြောင့် (|E(K_{m,n})|=mn) ဖြစ်ကြောင်း ရှင်းပြခဲ့သည်။
+- Edge တစ်ကြောင်းကို (V_1) ဖက်မှ တစ်ကြိမ်သာ ရေတွက်ထားသောကြောင့် (2) ဖြင့် မစားရကြောင်း learner က နားလည်ကြောင်း 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 6: Minimum-length Hamiltonian paths (current re-review)
+
+- Endpoint နှစ်ခု သတ်မှတ်ပြီး ကျန် vertex သုံးခုကို စီကာ path ၆ ခုစီ စစ်ဆေးရကြောင်း ရှင်းပြခဲ့သည်။
+- Edge weights များကို ပေါင်း၍ case (i) အတွက် minimum length 21၊ case (ii) အတွက် 23၊ case (iii) အတွက် 18 ကို ရှာဖွေခဲ့သည်။
+- Learner က နားလည်ကြောင်း 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 7: Tree and acyclic-graph properties (current re-review)
+
+- Tree သည် connected နှင့် acyclic ဖြစ်ရပြီး vertex n ခုရှိလျှင် edge n-1 ကြောင်းရှိရကြောင်း ပြန်လည်ရှင်းပြခဲ့သည်။
+- Properties (i)–(v) အတွက် မဖြစ်နိုင်သောအခြေအနေများကို သတ်မှတ်ပြီး ဖြစ်နိုင်သော graph များကို တည်ဆောက်ပြခဲ့သည်။
+- Learner က နားလည်ကြောင်း 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 8: Rooted-tree levels and height (current re-review)
+
+- Root k ကို level 0 ဟုယူပြီး root မှ vertex တစ်ခုထိ သွားရာ edge အရေအတွက်ကို level ဟု သတ်မှတ်ခဲ့သည်။
+- a,b,c,d,e,f,g,h,i,j,k တို့၏ levels ကို 1,1,1,1,2,3,3,4,2,3,0 ဟု ရှာဖွေခဲ့ပြီး tree height 4 ဖြစ်ကြောင်း learner က 2026-10-05 တွင် အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 9: Huffman-code decoding (current re-review)
+
+- Root မှ bit 0/1 branch များကို လိုက်ပြီး letter leaf ရောက်တိုင်း root သို့ ပြန်ကာ bit string ကို decode လုပ်နည်း ရှင်းပြခဲ့သည်။
+- ပေးထားသော strings များ၏ decoded words ကို LAP, DEAL, SALAD ဟု ရှာဖွေခဲ့ပြီး learner က 2026-10-05 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 10(i): Euler-cycle test (current re-review)
+
+- Graph (i) တွင် odd-degree vertices v2,v4,v6,v7 လေးခုရှိသောကြောင့် Euler cycle မရှိကြောင်း ရှင်းပြခဲ့သည်။
+- Learner က Question 10(i) ကို 2026-10-05 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+
+#### Paper 2110 — Selected item 10(ii): Euler-cycle construction (current re-review)
+
+- Graph (ii) တွင် vertex ငါးခုစီ၏ degree သည် 4 ဖြစ်သောကြောင့် degree အားလုံး even ဖြစ်သည်။
+- Connected graph ဖြစ်သဖြင့် Euler cycle ရှိပြီး edge 10 ကြောင်းလုံးကို တစ်ကြိမ်စီသုံးသော cycle တစ်ခုကို ထုတ်ပြခဲ့သည်။
+- Learner က Question 10(ii) ကို 2026-10-05 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
 
 #### Paper 2110 — Question 1(i)
 
@@ -253,6 +315,7 @@ Learner ပို့ထားသော reference images အတိုင်း so
 #### Paper 2104 — Recurrence Relations: Compound Interest
 
 - **Problem A** — 2000 K ကို 14% annually compounded interest ဖြင့် ရင်းနှီးမြှုပ်နှံသည့် မေးခွန်းကို recurrence relation, initial condition, first terms, explicit formula နှင့် doubling time အပါအဝင် ရှင်းပြပြီး learner က နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
+- **Algorithm — Next Permutation Q3** — PDF ထဲကရေးနည်းအတိုင်း `12354` အတွက် `s_i` များသတ်မှတ်ခြင်း၊ `s_m < s_{m+1}` ဖြစ်သော အကြီးဆုံး `m`၊ `s_k > s_m` ဖြစ်သော အကြီးဆုံး `k` ကိုရှာခြင်း၊ `s_m` နှင့် `s_k` ကို swap လုပ်ခြင်း၊ နောက်ဆုံး suffix ကို reverse လုပ်ခြင်းတို့ကို အဆင့်လိုက်ရှင်းပြခဲ့သည်။ အဖြေမှာ `12435` ဖြစ်ပြီး learner က 2026-10-06 တွင် နားလည်ကြောင်း အတည်ပြုခဲ့သည်။
 
 #### Paper 2102 — Unit II No. 2
 
